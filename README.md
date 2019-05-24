@@ -21,25 +21,60 @@ Curriculum vitae
 
 ## Education, work-related
 
+### Master's
+
+Eduction:
+
+ * University/College of Higher Education: University of Groningen
+ * Faculty: Science and Engineering
+ * Date of the certificate: ?August 2008
+ * Main subject: Teaching Biology
+
+Biology:
+
+ * University/College of Higher Education: University of Groningen
+ * Faculty: University Centre for Learning & Teaching
+ * Date of the certificate: ?August ?2006
+ * Main subject: Biology
+
+### Doctorate
+
+ * University/College of Higher Education: University of Groningen
+ * Date and place of (intended) doctoral degree as stated on your certificate: February 2020
+ * Supervisor (‘Promotor’): Rampal Etienne
+ * Title of thesis: The error in trees without birds
+
+### International activities and extended periods of study/research abroad
+
+ * Bochum, Germany, MSc project, 6 months
+ * Bristol, England, MSc project, 3 months
+
+### Education
+
 Period   |Education                                                      |Diploma
+---------|---------------------------------------------------------------|---
+2011-2014|Mechatronics, Alfa Collega, Groningen                          |No
+2007-2008|University Centre for Learning & Teaching, Groningen           |Yes
+1999-2005|University of Groningen, Biology, focus on Theoretical Biology |Yes
+1991-1998|VWO, Pax Christi College, Druten                               |Yes
+
+### Courses, work-related
+
+Period   |Course                                                         |Certicate
 ---------|---------------------------------------------------------------|---
 2019     |Company safety (BHV)                                           |Yes
 2017     |Company safety (BHV)                                           |Yes
 2016     |Assessment of assignments and theses                           |Yes
-2011-2014|Mechatronics, Alfa Collega, Groningen                          |No
 2011     |Company safety (BHV)                                           |Yes
 2010     |SolidWorks basics                                              |Yes
 2010     |Company safety (BHV)                                           |Yes
-2007-2008|University Centre for Learning & Teaching, Groningen           |Yes
 2006     |Factory safety (VCA)                                           |Yes
 2000     |Safe microbiological techniques (VMT), University of Groningen |Yes
-1999-2005|University of Groningen, Biology, focus on Theoretical Biology |Yes
-1991-1998|VWO, Pax Christi College, Druten                               |Yes
 1990     |Programming in BASIC                                           |Yes
 
-## Education, not work-related
+## Courses, not work-related
 
-Period   |Education                                                      |Diploma
+Period   |Course                                                         |Certificate
 ---------|---------------------------------------------------------------|---
 2019     |AIDA freediving level 1                                        |Yes
 2014     |Salsa dancing, mid 1                                           |No
@@ -50,7 +85,6 @@ Period   |Education                                                      |Diplom
 2012     |Ballroom dancing, silver                                       |Yes
 2006     |Basics of forging                                              |Yes
 2006     |Basics of welding                                              |Yes
-
 
 ## Work experience
 
