@@ -3,21 +3,21 @@ Curriculum vitae
 
 ## Contact information
 
-Name: Richel J.C. Bilderbeek
-Street: ---
-ZIP code: ---
-City: Groningen
-Country: The Netherlands
-Telephone number: ---
-E-mail: ---
+ * Name: Richel J.C. Bilderbeek
+ * Street: ---
+ * ZIP code: ---
+ * City: Groningen
+ * Country: The Netherlands
+ * Telephone number: ---
+ * E-mail: ---
 
 ## Personal information
 
-Date of birth: the 2nd September of 1980
-Place of birth: Milsbeek, The Netherlands
-Gender: Male
-Homepage: http://www.richelbilderbeek.nl
-Nationality: Dutch
+ * Date of birth: the 2nd September of 1980
+ * Place of birth: Milsbeek, The Netherlands
+ * Gender: Male
+ * Homepage: http://www.richelbilderbeek.nl
+ * Nationality: Dutch
 
 ## Education, work-related
 
@@ -156,13 +156,13 @@ Jun 2010|Actor ATS
 
 ## Hobbies
 
-Composing and performing songs on the piano
-Programming cross-platform tools, simulations and games, both desktop and web applications
-Handicrafts: welding, forging, sculpturing
-Stagecraft, both light and sound engineering
-Skateboarding
-Studying biology, math, chemistry, physics, astronomy, statistics, quantum mechanics
-Member of Maakplek, Mensa
+ * Composing and performing songs on the piano
+ * Programming cross-platform tools, simulations and games, both desktop and web applications
+ * Handicrafts: welding, forging, sculpturing
+ * Stagecraft, both light and sound engineering
+ * Skateboarding
+ * Studying biology, math, chemistry, physics, astronomy, statistics, quantum mechanics
+ * Member of Maakplek, Mensa
  
 # Language skills
 
