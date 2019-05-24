@@ -23,19 +23,19 @@ Curriculum vitae
 
 ### Master's
 
-Eduction:
+Question                              |Answer
+--------------------------------------|------------------------------------------
+University/College of Higher Education| University of Groningen
+Faculty                               | Science and Engineering
+Date of the certificate               | ?August 2008
+Main subject                          | Teaching Biology
 
- * University/College of Higher Education: University of Groningen
- * Faculty: Science and Engineering
- * Date of the certificate: ?August 2008
- * Main subject: Teaching Biology
-
-Biology:
-
- * University/College of Higher Education: University of Groningen
- * Faculty: University Centre for Learning & Teaching
- * Date of the certificate: ?August ?2006
- * Main subject: Biology
+Question                              |Answer
+--------------------------------------|------------------------------------------
+University/College of Higher Education| University of Groningen
+Faculty                               | University Centre for Learning & Teaching
+Date of the certificate               | ?August ?2006
+Main subject                          | Biology
 
 ### Doctorate
 
