@@ -109,6 +109,8 @@ Jan 1999-Feb 1999|Leader homework-camp: Leading a nine-day camp for secondary sc
 
 ## Activitities
 
+Day     |Activity
+--------|--------------------------------
 Jun 2019|Organiser Hackathon for 12-18 yo
 May 2019|Organiser Hackathon for 12-18 yo
 May 2019|Coach Django Girls
