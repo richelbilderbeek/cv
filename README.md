@@ -44,8 +44,8 @@ Period   |Education                                                      |Diplom
 
 ![](CvTimeline20110503.png)
 
-# |Period           |Function
---|-----------------|-----------------------------------------------------------
+n |Period           |Function
+--|-----------------|-------------------------------------------------------------------------------------------
 24|May 2015-??? ????|Freelance researcher (future work): development of a generic experimental game theory server with, among others, MSc Lucas Molleman from the Theoretical Biology group at the University of Groningen.
 23|Feb 2011-May 2011||Freelance researcher: improving an algorithm in C++ to calculate the probability of a certain phylogeny in cooperation with Dr. Rampal Etienne from the Community and Conservation Ecology group at the University of Groningen.
 22|Nov 2010-May 2011|Light- and soundtechnician (voluntarily): ensuring profession lighting and sound for bands or theatre plays for the Prinsentheater in Groningen.
