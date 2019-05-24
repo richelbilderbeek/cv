@@ -23,14 +23,14 @@ Curriculum vitae
 
 ### Master's
 
-.                                     |.
+Parameter                             |Value
 --------------------------------------|------------------------------------------
 University/College of Higher Education| University of Groningen
 Faculty                               | Science and Engineering
 Date of the certificate               | ?August 2008
 Main subject                          | Teaching Biology
 
-                                      | 
+Parameter                             |Value
 --------------------------------------|------------------------------------------
 University/College of Higher Education| University of Groningen
 Faculty                               | University Centre for Learning & Teaching
@@ -39,10 +39,12 @@ Main subject                          | Biology
 
 ### Doctorate
 
- * University/College of Higher Education: University of Groningen
- * Date and place of (intended) doctoral degree as stated on your certificate: February 2020
- * Supervisor (‘Promotor’): Rampal Etienne
- * Title of thesis: The error in trees without birds
+Parameter                                                                 | Value
+--------------------------------------------------------------------------|------------------------------------------
+University/College of Higher Education                                    | University of Groningen
+Date and place of (intended) doctoral degree as stated on your certificate| February 2020
+Supervisor ('Promotor')                                                   | Rampal Etienne
+Title of thesis                                                           | The error in trees without birds
 
 ### International activities and extended periods of study/research abroad
 
