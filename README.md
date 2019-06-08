@@ -190,10 +190,19 @@ Feb 2013-present|Co-founder hackerspace Hive5
 Jan 2010-Nov 2012|Presenter Open Podium
 Jun 2010|Actor ATS
 
-## Publications
+## Academic publications
 
  * van den Bogaart, Antoine CM, Richel JC Bilderbeek, Harmen Schaap, Hans GK Hummel, and Paul A. Kirschner. "A computer-supported method to reveal and assess Personal Professional Theories in vocational education." Technology, pedagogy and education 25, no. 5 (2016): 613-629.
  * Bilderbeek, Richèl JC, and Rampal S. Etienne. "babette: BEAUti 2, BEAST2 and Tracer for R." Methods in Ecology and Evolution 9, no. 9 (2018): 2034-2040.
+
+## Other publications
+
+ * [Continuous integration with Travis CI](https://arne-mertz.de/2017/04/continuous-integration-travis-ci):
+   a guest blog post on [Simplify C++](https://arne-mertz.de/) 
+ * [Raising Your Code to Professional Standards](https://sdjournal.org/raising-code-professional-standards):
+   a free (that is, it can be read without paying) article for [SDJournal](https://sdjournal.org).
+   Also available at 
+   [https://github.com/richelbilderbeek/sdj_raising_your_code_to_professional_standards](https://github.com/richelbilderbeek/sdj_raising_your_code_to_professional_standards)
 
 ## Hobbies
 
