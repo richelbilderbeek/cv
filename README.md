@@ -88,6 +88,70 @@ Period   |Course                                                         |Certif
 2006     |Basics of forging                                              |Yes
 2006     |Basics of welding                                              |Yes
 
+## Academic publications
+
+ * van den Bogaart, Antoine CM, Richel JC Bilderbeek, Harmen Schaap, Hans GK Hummel, and Paul A. Kirschner. "A computer-supported method to reveal and assess Personal Professional Theories in vocational education." Technology, pedagogy and education 25, no. 5 (2016): 613-629.
+ * Bilderbeek, Richèl JC, and Rampal S. Etienne. "babette: BEAUti 2, BEAST2 and 
+   Tracer for R." Methods in Ecology and Evolution 9, no. 9 (2018): 2034-2040.
+
+## Professional publications
+
+ * [Continuous integration with Travis CI](https://arne-mertz.de/2017/04/continuous-integration-travis-ci):
+   a guest blog post on [Simplify C++](https://arne-mertz.de/) 
+ * [Raising Your Code to Professional Standards](https://sdjournal.org/raising-code-professional-standards):
+   a free (that is, it can be read without paying) article for [SDJournal](https://sdjournal.org).
+   Also available at 
+   [https://github.com/richelbilderbeek/sdj_raising_your_code_to_professional_standards](https://github.com/richelbilderbeek/sdj_raising_your_code_to_professional_standards)
+
+## Teaching material
+
+ * [Boost Graph Cookbook 1](https://github.com/richelbilderbeek/boost_graph_cookbook_1):
+   book about the Boost.Graph library
+ * [How to add a custom tree prior to BEAST2](https://github.com/BEAST2-Dev/beast-docs/blob/master/CreateNewTreePrior/CreateNewTreePrior.md)
+ * [Travis CI for C++ Tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial)
+
+## English course material
+
+ * [Correct C++](https://github.com/richelbilderbeek/correct_cpp): an online C++ course
+
+## Dutch course material
+
+ * [Arduino voor jonge tieners](https://github.com/richelbilderbeek/arduino_voor_jonge_tieners) (Dutch)
+ * [C++ voor jonge tieners](https://github.com/richelbilderbeek/cpp_voor_jonge_tieners) (Dutch)
+ * [git voor jonge tieners](https://github.com/richelbilderbeek/git_voor_jonge_tieners) (Dutch)
+ * [mBot voor jonge tieners](https://github.com/richelbilderbeek/mbot_voor_jonge_tieners) (Dutch)
+ * [Processing voor jonge tieners](https://github.com/richelbilderbeek/processing_voor_jonge_tieners) (Dutch)
+
+## Academic R packages I wrote and maintain
+
+ * [babette](https://github.com/ropensci/babette)
+ * [beastier](https://github.com/ropensci/beastier)
+ * [beautier](https://github.com/ropensci/beautier)
+ * [mauricer](https://github.com/ropensci/mauricer)
+ * [mcbette](https://github.com/richelbilderbeek/mcbette)
+ * [pirouette](https://github.com/richelbilderbeek/pirouette) with Giovanni Laudanno
+ * [tracerer](https://github.com/ropensci/tracerer)
+
+## Academic R packages I contributed to or maintain
+
+ * [nLTT](https://github.com/richelbilderbeek/nLTT): maintainer and contributor
+ * [DAISIE](https://github.com/restienne/DAISIE): contributor
+
+## Academic simulations
+
+ * [Korter Project](https://github.com/richelbilderbeek/korter_project)
+ * [MutualismBreakdowner](https://github.com/richelbilderbeek/MutualismBreakdowner)
+ * [ProjectChrisWiley](https://github.com/richelbilderbeek/ProjectChrisWiley)
+ * [ProjectMuscaDomestica](https://github.com/richelbilderbeek/ProjectMuscaDomestica)
+ * [ProjectBristol](https://github.com/richelbilderbeek/ProjectBristol)
+
+## Educational simulations
+
+ * [SimImmuneResponse](https://github.com/richelbilderbeek/SimImmuneResponse): human immune response simulator
+ * [SimStagecraft](https://github.com/richelbilderbeek/SimStagecraft): stagecraft simulator
+ * [SoaSim](https://github.com/richelbilderbeek/SoaSim): STD transmission simulator
+ * [Theatertechniek](https://github.com/richelbilderbeek/theatertechniek): stagecraft (Dutch)
+
 ## Work experience
 
 Ordered by ending date, then beginning date, most recent at top.
@@ -190,19 +254,6 @@ Feb 2013-present|Co-founder hackerspace Hive5
 Jan 2010-Nov 2012|Presenter Open Podium
 Jun 2010|Actor ATS
 
-## Academic publications
-
- * van den Bogaart, Antoine CM, Richel JC Bilderbeek, Harmen Schaap, Hans GK Hummel, and Paul A. Kirschner. "A computer-supported method to reveal and assess Personal Professional Theories in vocational education." Technology, pedagogy and education 25, no. 5 (2016): 613-629.
- * Bilderbeek, Richèl JC, and Rampal S. Etienne. "babette: BEAUti 2, BEAST2 and Tracer for R." Methods in Ecology and Evolution 9, no. 9 (2018): 2034-2040.
-
-## Other publications
-
- * [Continuous integration with Travis CI](https://arne-mertz.de/2017/04/continuous-integration-travis-ci):
-   a guest blog post on [Simplify C++](https://arne-mertz.de/) 
- * [Raising Your Code to Professional Standards](https://sdjournal.org/raising-code-professional-standards):
-   a free (that is, it can be read without paying) article for [SDJournal](https://sdjournal.org).
-   Also available at 
-   [https://github.com/richelbilderbeek/sdj_raising_your_code_to_professional_standards](https://github.com/richelbilderbeek/sdj_raising_your_code_to_professional_standards)
 
 ## Hobbies
 
@@ -211,7 +262,7 @@ Jun 2010|Actor ATS
  * Handicrafts: welding, forging, sculpturing
  * Stagecraft, both light and sound engineering
  * Skateboarding
- * Studying biology, math, chemistry, physics, astronomy, statistics, quantum mechanics
+ * Studying biology, math, chemistry, physics, astronomy, statistics
  * Member of Maakplek, Mensa
  
 # Language skills
