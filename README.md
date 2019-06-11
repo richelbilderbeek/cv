@@ -135,7 +135,7 @@ Period   |Course                                                         |Certif
 ## Academic R packages I contributed to or maintain
 
  * [nLTT](https://github.com/richelbilderbeek/nLTT): maintainer and contributor
- * [DAISIE](https://github.com/restienne/DAISIE): contributor
+ * [DAISIE](https://github.com/rsetienne/DAISIE): contributor
 
 ## Academic simulations
 
