@@ -106,6 +106,10 @@ Period   |Course                                                         |Certif
  * [Methods.blog post: The babette R Package: How to Sooth the Phylogenetic BEAST2](https://methodsblog.wordpress.com/2018/06/25/babette-beast2/)
  * [rOpenSci blog post: Call BEAST2 for Bayesian evolutionary analysis from R](https://ropensci.org/blog/2020/01/28/babette/)
 
+## Podcast
+
+ * CppCast, 'Travis CI', 2017
+
 ## Teaching material
 
  * [Boost Graph Cookbook 1](https://github.com/richelbilderbeek/boost_graph_cookbook_1):
@@ -181,6 +185,11 @@ Period   |Course                                                         |Certif
  * [SoaSim](https://github.com/richelbilderbeek/SoaSim): STD transmission simulator
  * [Theatertechniek](https://github.com/richelbilderbeek/theatertechniek): stagecraft (Dutch)
 
+## Teams I lead
+
+ * Team Octane
+ * tresinformal
+
 ## Work experience
 
 Ordered by ending date, then beginning date, most recent at top.
@@ -212,7 +221,7 @@ Apr 2013-Sep 2013|Welder at Corsowijk de Korenbloem (voluntarily)
 Sep 2006-Mar 2013|C++ trainer: improving the C++ knowledge of beginner and advanced programmers with a tailor-made training for DTS, Meppel.
 Oct 2012-Jan 2013|Freelance light- and soundtechnician Babylon
 Nov 2010-Oct 2012|Light- and soundtechnician (voluntarily): ensuring profession lighting and sound for bands or theatre plays for the Prinsentheater in Groningen.
-Sep 2011-Mar 2012|Lockwood: inter, electronics and PLC programming
+Sep 2011-Mar 2012|Lockwood: intern, electronics and PLC programming
 Nov 2011-Nov 2011|TugaLogix: mobile phone app development
 Feb 2011-May 2011|Freelance researcher: improving an algorithm in C++ to calculate the probability of a certain phylogeny in cooperation with Dr. Rampal Etienne from the Community and Conservation Ecology group at the University of Groningen.
 Aug 2009-May 2011|Freelance stagecraft workshops supervisor: teaching and making a team of secondary school students do the entire stagecraft of a presentation as a member of the ROET (Arnhem) crew.
