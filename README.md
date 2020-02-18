@@ -139,6 +139,13 @@ Period   |Course                                                         |Certif
  * [pirouette](https://github.com/richelbilderbeek/pirouette) with Giovanni Laudanno
  * [tracerer](https://github.com/ropensci/tracerer)
 
+## Peer-reviewed R packages I wrote and maintain
+
+ * [babette](https://github.com/ropensci/babette)
+ * [beastier](https://github.com/ropensci/beastier)
+ * [beautier](https://github.com/ropensci/beautier)
+ * [tracerer](https://github.com/ropensci/tracerer)
+
 ## Academic R packages I contributed to or maintain
 
  * [nLTT](https://github.com/richelbilderbeek/nLTT): maintainer and contributor
