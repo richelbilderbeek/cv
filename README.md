@@ -140,16 +140,29 @@ Period   |Course                                                         |Certif
 
 ## Academic supervision
 
+### MScs
+
  * Jorik de Boer
  * Kees Wesselink
+
+### BScs
+
+ * Joris Damhuis, 
+ * Jolien Gay
  * Elles Jetten
  * Dave Nijhuis
  * Damian Over
- * Marijn Meerveld
- * Jorn Prenger
- * Joshua van Waardenberg
- * Mart Prenger
+ * Femke Thon
+
+### Interns from secondary school
+
  * Anne Hinrichs
+ * Marijn Meerveld
+ * Jeroen van Niemendal
+ * Jorn Prenger
+ * Mart Prenger
+ * Rijk van Putten
+ * Joshua van Waardenberg
 
 ## Academic simulations
 
