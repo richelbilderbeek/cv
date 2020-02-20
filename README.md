@@ -310,6 +310,12 @@ Jun 2010|Actor ATS
  * Studying biology, math, chemistry, physics, astronomy, statistics
  * Member of Maakplek, Mensa
  
+## Music bands I played in
+
+ * Het Bilderbeek, Bilderbeek en Bogaart, Bogaart Quartet (2012)
+ * The Fanstars (2016)
+ * Dubai Coke (2020-present)
+
 # Language skills
 
 Language|Writing|Speaking
