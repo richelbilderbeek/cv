@@ -325,9 +325,9 @@ Jun 2010|Actor ATS
  
 ## Music bands I played in
 
- * Het Bilderbeek, Bilderbeek en Bogaart, Bogaart Quartet (2012)
- * The Fanstars (2016)
- * Dubai Coke (2020-present)
+ * Het Bilderbeek, Bilderbeek en Bogaart, Bogaart Quartet (2002)
+ * The Fanstars (2007)
+ * Dubai Coke, [https://dubaicoke.nl](https://dubaicoke.nl) (2020-present)
 
 # Language skills
 
