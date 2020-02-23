@@ -131,25 +131,38 @@ Period   |Course                                                         |Certif
 
 ## Academic R packages I wrote and maintain
 
- * [babette](https://github.com/ropensci/babette)
- * [beastier](https://github.com/ropensci/beastier)
- * [beautier](https://github.com/ropensci/beautier)
- * [mauricer](https://github.com/ropensci/mauricer)
- * [mcbette](https://github.com/richelbilderbeek/mcbette)
- * [pirouette](https://github.com/richelbilderbeek/pirouette) with Giovanni Laudanno
- * [tracerer](https://github.com/ropensci/tracerer)
+Name                                                           |Downloads                                                                                    |Total number of downloads                                                        
+---------------------------------------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------
+[babette](https://github.com/ropensci/babette)                 |[![](http://cranlogs.r-pkg.org/badges/babette)](https://CRAN.R-project.org/package=babette)  |[![](http://cranlogs.r-pkg.org/badges/grand-total/babette)](https://CRAN.R-project.org/package=babette)
+[beastier](https://github.com/ropensci/beastier)               |[![](http://cranlogs.r-pkg.org/badges/beastier)](https://CRAN.R-project.org/package=beastier)|[![](http://cranlogs.r-pkg.org/badges/grand-total/beastier)](https://CRAN.R-project.org/package=beastier)
+[beautier](https://github.com/ropensci/beautier)               |[![](http://cranlogs.r-pkg.org/badges/beautier)](https://CRAN.R-project.org/package=beautier)|[![](http://cranlogs.r-pkg.org/badges/grand-total/beautier)](https://CRAN.R-project.org/package=beautier)
+[mauricer](https://github.com/ropensci/mauricer)               |[![](http://cranlogs.r-pkg.org/badges/mauricer)](https://CRAN.R-project.org/package=mauricer)|[![](http://cranlogs.r-pkg.org/badges/grand-total/mauricer)](https://CRAN.R-project.org/package=mauricer)
+[mcbette](https://github.com/richelbilderbeek/mcbette)         |NA [2]                                                                                       |NA [2]
+[pirouette](https://github.com/richelbilderbeek/pirouette) [1] |NA [2]                                                                                       |NA [2]
+[tracerer](https://github.com/ropensci/tracerer)               |[![](http://cranlogs.r-pkg.org/badges/tracerer)](https://CRAN.R-project.org/package=tracerer)|[![](http://cranlogs.r-pkg.org/badges/grand-total/tracerer)](https://CRAN.R-project.org/package=tracerer)
+
+ * [1] with Giovanni Laudanno
+ * [2] this value is only known for packages on CRAN
 
 ## Peer-reviewed R packages I wrote and maintain
 
- * [babette](https://github.com/ropensci/babette)
- * [beastier](https://github.com/ropensci/beastier)
- * [beautier](https://github.com/ropensci/beautier)
- * [tracerer](https://github.com/ropensci/tracerer)
+Name                                                           |Downloads                                                                                    |Total number of downloads                                                        
+---------------------------------------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------
+[babette](https://github.com/ropensci/babette)                 |[![](http://cranlogs.r-pkg.org/badges/babette)](https://CRAN.R-project.org/package=babette)  |[![](http://cranlogs.r-pkg.org/badges/grand-total/babette)](https://CRAN.R-project.org/package=babette)
+[beastier](https://github.com/ropensci/beastier)               |[![](http://cranlogs.r-pkg.org/badges/beastier)](https://CRAN.R-project.org/package=beastier)|[![](http://cranlogs.r-pkg.org/badges/grand-total/beastier)](https://CRAN.R-project.org/package=beastier)
+[beautier](https://github.com/ropensci/beautier)               |[![](http://cranlogs.r-pkg.org/badges/beautier)](https://CRAN.R-project.org/package=beautier)|[![](http://cranlogs.r-pkg.org/badges/grand-total/beautier)](https://CRAN.R-project.org/package=beautier)
+[tracerer](https://github.com/ropensci/tracerer)               |[![](http://cranlogs.r-pkg.org/badges/tracerer)](https://CRAN.R-project.org/package=tracerer)|[![](http://cranlogs.r-pkg.org/badges/grand-total/tracerer)](https://CRAN.R-project.org/package=tracerer)
 
 ## Academic R packages I contributed to or maintain
 
- * [nLTT](https://github.com/richelbilderbeek/nLTT): maintainer and contributor
- * [DAISIE](https://github.com/rsetienne/DAISIE): contributor
+Name                                                           |Downloads                                                                                    |Total number of downloads
+---------------------------------------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------
+[DAISIE](https://github.com/rsetienne/DAISIE) [1]              |[![](http://cranlogs.r-pkg.org/badges/DAISIE)](https://CRAN.R-project.org/package=DAISIE)    |[![](http://cranlogs.r-pkg.org/badges/grand-total/DAISIE)](https://CRAN.R-project.org/package=DAISIE)
+[nLTT](https://github.com/thijsjanzen/nLTT) [2]                |[![](http://cranlogs.r-pkg.org/badges/nLTT)](https://CRAN.R-project.org/package=nLTT)        |[![](http://cranlogs.r-pkg.org/badges/grand-total/nLTT)](https://CRAN.R-project.org/package=nLTT)
+[phangorn](https://github.com/klausvigo/phangorn) [2]          |[![](http://cranlogs.r-pkg.org/badges/phangorn)](https://CRAN.R-project.org/package=phangorn)|[![](http://cranlogs.r-pkg.org/badges/grand-total/phangorn)](https://CRAN.R-project.org/package=phangorn)
+
+ * [1] maintainer and contributor
+ * [2] contributor
 
 ## Academic supervision
 
