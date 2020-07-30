@@ -139,6 +139,7 @@ Name                                                           |Downloads       
 [mauricer](https://github.com/ropensci/mauricer)               |[![](http://cranlogs.r-pkg.org/badges/mauricer)](https://CRAN.R-project.org/package=mauricer)|[![](http://cranlogs.r-pkg.org/badges/grand-total/mauricer)](https://CRAN.R-project.org/package=mauricer)
 [mcbette](https://github.com/richelbilderbeek/mcbette)         |NA [2]                                                                                       |NA [2]
 [pirouette](https://github.com/richelbilderbeek/pirouette) [1] |NA [2]                                                                                       |NA [2]
+[pureseqtmr](https://github.com/richelbilderbeek/pureseqtmr)   |[![](http://cranlogs.r-pkg.org/badges/pureseqtmr)](https://CRAN.R-project.org/package=pureseqtmr)|[![](http://cranlogs.r-pkg.org/badges/grand-total/pureseqtmr)](https://CRAN.R-project.org/package=pureseqtmr)
 [tracerer](https://github.com/ropensci/tracerer)               |[![](http://cranlogs.r-pkg.org/badges/tracerer)](https://CRAN.R-project.org/package=tracerer)|[![](http://cranlogs.r-pkg.org/badges/grand-total/tracerer)](https://CRAN.R-project.org/package=tracerer)
 
  * [1] with Giovanni Laudanno
