@@ -140,11 +140,14 @@ Name                                                           |Downloads [1]   
 [mcbette](https://github.com/richelbilderbeek/mcbette)         |[![](http://cranlogs.r-pkg.org/badges/mcbette)](https://CRAN.R-project.org/package=mcbette)        |[![](http://cranlogs.r-pkg.org/badges/grand-total/mcbette)](https://CRAN.R-project.org/package=mcbette)
 [mhcnpreds](https://github.com/richelbilderbeek/mhcnpreds)     |[![](http://cranlogs.r-pkg.org/badges/mhcnpreds)](https://CRAN.R-project.org/package=mhcnpreds)    |[![](http://cranlogs.r-pkg.org/badges/grand-total/mhcnpreds)](https://CRAN.R-project.org/package=mhcnpreds)
 [mhcnuggetsr](https://github.com/richelbilderbeek/mhcnuggetsr) |[![](http://cranlogs.r-pkg.org/badges/mhcnuggetsr)](https://CRAN.R-project.org/package=mhcnuggetsr)|[![](http://cranlogs.r-pkg.org/badges/grand-total/mhcnuggetsr)](https://CRAN.R-project.org/package=mhcnuggetsr)
+[netmhc2pan](https://github.com/richelbilderbeek/netmhc2pan)   |[2]                                                                                                |[2]
 [pirouette](https://github.com/richelbilderbeek/pirouette)     |[![](http://cranlogs.r-pkg.org/badges/pirouette)](https://CRAN.R-project.org/package=pirouette)    |[![](http://cranlogs.r-pkg.org/badges/grand-total/pirouette)](https://CRAN.R-project.org/package=pirouette)
 [pureseqtmr](https://github.com/richelbilderbeek/pureseqtmr)   |[![](http://cranlogs.r-pkg.org/badges/pureseqtmr)](https://CRAN.R-project.org/package=pureseqtmr)  |[![](http://cranlogs.r-pkg.org/badges/grand-total/pureseqtmr)](https://CRAN.R-project.org/package=pureseqtmr)
+[tmhmm](https://github.com/richelbilderbeek/tmhmm)             |[2]                                                                                                |[2]
 [tracerer](https://github.com/ropensci/tracerer)               |[![](http://cranlogs.r-pkg.org/badges/tracerer)](https://CRAN.R-project.org/package=tracerer)      |[![](http://cranlogs.r-pkg.org/badges/grand-total/tracerer)](https://CRAN.R-project.org/package=tracerer)
 
  * [1] For packages that are not on CRAN yet, this number will be zero
+ * [2] Cannot be put on CRAN due to license of original tool
 
 ## Peer-reviewed R packages I wrote and maintain
 
