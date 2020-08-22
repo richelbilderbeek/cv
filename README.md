@@ -3,7 +3,7 @@ Curriculum vitae
 
 ## Contact information
 
- * Name: Richel J.C. Bilderbeek
+ * Name: Richèl J.C. Bilderbeek
  * Street: ---
  * ZIP code: ---
  * City: Groningen
@@ -27,14 +27,14 @@ Parameter                             |Value
 --------------------------------------|------------------------------------------
 University/College of Higher Education| University of Groningen
 Faculty                               | Science and Engineering
-Date of the certificate               | ?August 2008
+Date of the certificate               | August 2008
 Main subject                          | Teaching Biology
 
 Parameter                             |Value
 --------------------------------------|------------------------------------------
 University/College of Higher Education| University of Groningen
 Faculty                               | University Centre for Learning & Teaching
-Date of the certificate               | ?August ?2006
+Date of the certificate               | August 2006
 Main subject                          | Biology
 
 ### Doctorate
@@ -44,7 +44,7 @@ Parameter                                                                 | Valu
 University/College of Higher Education                                    | University of Groningen
 Date and place of (intended) doctoral degree as stated on your certificate| February 2020
 Supervisor ('Promotor')                                                   | Rampal Etienne
-Title of thesis                                                           | The error in trees without birds
+Title of thesis                                                           | Speciation and the error we make in phylogenetic inference
 
 ### International activities and extended periods of study/research abroad
 
@@ -90,10 +90,10 @@ Period   |Course                                                         |Certif
 
 ## Academic publications
 
- * Etienne, Rampal S., Giovanni Laudanno, and Richel JC Bilderbeek. "Quantifying the importance of an inference model in Bayesian phylogenetics." bioRxiv (2019).
+ * Etienne, Rampal S., Giovanni Laudanno, and Richèl JC Bilderbeek. "Quantifying the importance of an inference model in Bayesian phylogenetics." bioRxiv (2019).
  * Bilderbeek, Richèl JC, and Rampal S. Etienne. "babette: BEAUti 2, BEAST2 and 
    Tracer for R." Methods in Ecology and Evolution 9, no. 9 (2018): 2034-2040.
- * van den Bogaart, Antoine CM, Richel JC Bilderbeek, Harmen Schaap, Hans GK Hummel, and Paul A. Kirschner. "A computer-supported method to reveal and assess Personal Professional Theories in vocational education." Technology, pedagogy and education 25, no. 5 (2016): 613-629.
+ * van den Bogaart, Antoine CM, Richèl JC Bilderbeek, Harmen Schaap, Hans GK Hummel, and Paul A. Kirschner. "A computer-supported method to reveal and assess Personal Professional Theories in vocational education." Technology, pedagogy and education 25, no. 5 (2016): 613-629.
 
 ## Professional publications
 
@@ -178,7 +178,7 @@ Name                                                           |Downloads       
 
 ### BScs
 
- * Joris Damhuis, 
+ * Joris Damhuis
  * Jolien Gay
  * Elles Jetten
  * Dave Nijhuis
@@ -212,8 +212,9 @@ Name                                                           |Downloads       
 
 ## Teams I lead
 
- * Team Octane
- * tresinformal
+ * informalr, 2020-present
+ * tresinformal, 2019-2020
+ * Team Octane, 2017-2018
 
 ## Work experience
 
