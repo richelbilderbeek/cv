@@ -1,3 +1,0 @@
-#!/bin/bash
-
-pandoc README.md -o cv.pdf

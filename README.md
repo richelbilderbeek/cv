@@ -335,10 +335,20 @@ Jun 2010|Actor ATS
  * The Fanstars (2007)
  * Dubai Coke, [https://dubaicoke.nl](https://dubaicoke.nl) (2020-present)
 
-# Language skills
+## Natural languages
 
 Language|Writing|Speaking
 --------|-------|--------  
 Dutch   |Good   |Good
 English |Good   |Good
 German  |Fine   |Fine
+
+## Programming languages
+
+Language|Skill|Years of experience
+--------|-----|-------------------
+C++     |Good |20
+R       |Good |5
+
+
+
