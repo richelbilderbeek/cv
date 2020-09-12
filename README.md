@@ -42,7 +42,7 @@ Main subject                          | Biology
 Parameter                                                                 | Value
 --------------------------------------------------------------------------|------------------------------------------
 University/College of Higher Education                                    | University of Groningen
-Date and place of (intended) doctoral degree as stated on your certificate| February 2020
+Date and place of (intended) doctoral degree as stated on your certificate| September 2020
 Supervisor ('Promotor')                                                   | Rampal Etienne
 Title of thesis                                                           | Speciation and the error we make in phylogenetic inference
 
