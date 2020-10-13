@@ -351,4 +351,7 @@ C++     |Good |20
 R       |Good |5
 
 
+## GitHub stats
+
+![github stats](https://github-readme-stats.vercel.app/api?username=richelbilderbeek&show_icons=true)
 
