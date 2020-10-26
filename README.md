@@ -146,7 +146,7 @@ Name                                                           |Downloads [1]   
 [tmhmm](https://github.com/richelbilderbeek/tmhmm)             |[![](http://cranlogs.r-pkg.org/badges/tmhmm)](https://CRAN.R-project.org/package=tmhmm)|[![](http://cranlogs.r-pkg.org/badges/grand-total/tmhmm)](https://CRAN.R-project.org/package=tmhmm)                                                                                                |[2]
 [tracerer](https://github.com/ropensci/tracerer)               |[![](http://cranlogs.r-pkg.org/badges/tracerer)](https://CRAN.R-project.org/package=tracerer)      |[![](http://cranlogs.r-pkg.org/badges/grand-total/tracerer)](https://CRAN.R-project.org/package=tracerer)
 
- * For packages that are not on CRAN yet, this number will be zero
+ * [1] for packages that are not on CRAN yet, this number will be zero
 
 ## Peer-reviewed R packages I wrote and maintain
 
