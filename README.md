@@ -137,17 +137,16 @@ Name                                                           |Downloads [1]   
 [beastier](https://github.com/ropensci/beastier)               |[![](http://cranlogs.r-pkg.org/badges/beastier)](https://CRAN.R-project.org/package=beastier)      |[![](http://cranlogs.r-pkg.org/badges/grand-total/beastier)](https://CRAN.R-project.org/package=beastier)
 [beautier](https://github.com/ropensci/beautier)               |[![](http://cranlogs.r-pkg.org/badges/beautier)](https://CRAN.R-project.org/package=beautier)      |[![](http://cranlogs.r-pkg.org/badges/grand-total/beautier)](https://CRAN.R-project.org/package=beautier)
 [mauricer](https://github.com/ropensci/mauricer)               |[![](http://cranlogs.r-pkg.org/badges/mauricer)](https://CRAN.R-project.org/package=mauricer)      |[![](http://cranlogs.r-pkg.org/badges/grand-total/mauricer)](https://CRAN.R-project.org/package=mauricer)
-[mcbette](https://github.com/ropensci/mcbette)         |[![](http://cranlogs.r-pkg.org/badges/mcbette)](https://CRAN.R-project.org/package=mcbette)        |[![](http://cranlogs.r-pkg.org/badges/grand-total/mcbette)](https://CRAN.R-project.org/package=mcbette)
+[mcbette](https://github.com/ropensci/mcbette)                 |[![](http://cranlogs.r-pkg.org/badges/mcbette)](https://CRAN.R-project.org/package=mcbette)        |[![](http://cranlogs.r-pkg.org/badges/grand-total/mcbette)](https://CRAN.R-project.org/package=mcbette)
 [mhcnpreds](https://github.com/richelbilderbeek/mhcnpreds)     |[![](http://cranlogs.r-pkg.org/badges/mhcnpreds)](https://CRAN.R-project.org/package=mhcnpreds)    |[![](http://cranlogs.r-pkg.org/badges/grand-total/mhcnpreds)](https://CRAN.R-project.org/package=mhcnpreds)
 [mhcnuggetsr](https://github.com/richelbilderbeek/mhcnuggetsr) |[![](http://cranlogs.r-pkg.org/badges/mhcnuggetsr)](https://CRAN.R-project.org/package=mhcnuggetsr)|[![](http://cranlogs.r-pkg.org/badges/grand-total/mhcnuggetsr)](https://CRAN.R-project.org/package=mhcnuggetsr)
-[netmhc2pan](https://github.com/richelbilderbeek/netmhc2pan)   |[2]                                                                                                |[2]
+[netmhc2pan](https://github.com/richelbilderbeek/netmhc2pan)   |[![](http://cranlogs.r-pkg.org/badges/netmhc2pan)](https://CRAN.R-project.org/package=netmhc2pan)|[![](http://cranlogs.r-pkg.org/badges/grand-total/netmhc2pan)](https://CRAN.R-project.org/package=netmhc2pan)                                                                                                |[2]
 [pirouette](https://github.com/richelbilderbeek/pirouette)     |[![](http://cranlogs.r-pkg.org/badges/pirouette)](https://CRAN.R-project.org/package=pirouette)    |[![](http://cranlogs.r-pkg.org/badges/grand-total/pirouette)](https://CRAN.R-project.org/package=pirouette)
 [pureseqtmr](https://github.com/richelbilderbeek/pureseqtmr)   |[![](http://cranlogs.r-pkg.org/badges/pureseqtmr)](https://CRAN.R-project.org/package=pureseqtmr)  |[![](http://cranlogs.r-pkg.org/badges/grand-total/pureseqtmr)](https://CRAN.R-project.org/package=pureseqtmr)
-[tmhmm](https://github.com/richelbilderbeek/tmhmm)             |[2]                                                                                                |[2]
+[tmhmm](https://github.com/richelbilderbeek/tmhmm)             |[![](http://cranlogs.r-pkg.org/badges/tmhmm)](https://CRAN.R-project.org/package=tmhmm)|[![](http://cranlogs.r-pkg.org/badges/grand-total/tmhmm)](https://CRAN.R-project.org/package=tmhmm)                                                                                                |[2]
 [tracerer](https://github.com/ropensci/tracerer)               |[![](http://cranlogs.r-pkg.org/badges/tracerer)](https://CRAN.R-project.org/package=tracerer)      |[![](http://cranlogs.r-pkg.org/badges/grand-total/tracerer)](https://CRAN.R-project.org/package=tracerer)
 
- * [1] For packages that are not on CRAN yet, this number will be zero
- * [2] Cannot be put on CRAN due to license of original tool
+ * For packages that are not on CRAN yet, this number will be zero
 
 ## Peer-reviewed R packages I wrote and maintain
 
