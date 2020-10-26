@@ -90,7 +90,7 @@ Period   |Course                                                         |Certif
 
 ## Academic publications
 
- * Etienne, Rampal S., Giovanni Laudanno, and Richèl JC Bilderbeek. "Quantifying the importance of an inference model in Bayesian phylogenetics." bioRxiv (2019).
+ * Etienne, Rampal S., Giovanni Laudanno, and Richèl JC Bilderbeek. "Quantifying the importance of an impact model in Bayesian phylogenetics." bioRxiv (2019).
  * Bilderbeek, Richèl JC, and Rampal S. Etienne. "babette: BEAUti 2, BEAST2 and 
    Tracer for R." Methods in Ecology and Evolution 9, no. 9 (2018): 2034-2040.
  * van den Bogaart, Antoine CM, Richèl JC Bilderbeek, Harmen Schaap, Hans GK Hummel, and Paul A. Kirschner. "A computer-supported method to reveal and assess Personal Professional Theories in vocational education." Technology, pedagogy and education 25, no. 5 (2016): 613-629.
