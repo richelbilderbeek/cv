@@ -90,6 +90,7 @@ Period   |Course                                                         |Certif
 
 ## Academic publications
 
+ * Bilderbeek, Richèl JC. "mcbette: model comparison using babette." Journal of Open Source Software 5.54 (2020): 2762.
  * Bilderbeek, Laudanno and Etienne (2020), Quantifying the impact of an inference model in Bayesian phylogenetics. Methods in Ecology and Evolution. Accepted Author Manuscript. doi:10.1111/2041-210X.13514
  * Bilderbeek and Etienne (2018) babette: BEAUti 2, BEAST2 and Tracer for R. Methods in Ecology and Evolution 9, no. 9 (2018): 2034-2040.
  * van den Bogaart, Bilderbeek, Schaap, Hummel and Kirschner (2016) A computer-supported method to reveal and assess Personal Professional Theories in vocational education. Technology, pedagogy and education 25, no. 5 (2016): 613-629.
@@ -104,7 +105,6 @@ Period   |Course                                                         |Certif
    [https://github.com/richelbilderbeek/sdj_raising_your_code_to_professional_standards](https://github.com/richelbilderbeek/sdj_raising_your_code_to_professional_standards)
  * [Methods.blog post: The babette R Package: How to Sooth the Phylogenetic BEAST2](https://methodsblog.wordpress.com/2018/06/25/babette-beast2/)
  * [rOpenSci blog post: Call BEAST2 for Bayesian evolutionary analysis from R](https://ropensci.org/blog/2020/01/28/babette/)
- * JOSS article
 
 ## Podcast
 
