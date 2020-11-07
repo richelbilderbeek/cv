@@ -90,10 +90,22 @@ Period   |Course                                                         |Certif
 
 ## Academic publications
 
- * Bilderbeek (2020) mcbette: model comparison using babette. Journal of Open Source Software 5.54: 2762. [URL](https://doi.org/10.21105/joss.02762)
- * Bilderbeek, Laudanno and Etienne (2020) Quantifying the impact of an inference model in Bayesian phylogenetics. Methods in Ecology and Evolution. [URL](https://doi.org/10.1111/2041-210X.13514)
- * Bilderbeek and Etienne (2018) babette: BEAUti 2, BEAST2 and Tracer for R. Methods in Ecology and Evolution 9, no. 9 (2018): 2034-2040. [URL](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13032)
- * van den Bogaart, Bilderbeek, Schaap, Hummel and Kirschner (2016) A computer-supported method to reveal and assess Personal Professional Theories in vocational education. Technology, pedagogy and education 25, no. 5 (2016): 613-629. [URL](https://doi.org/10.1080/1475939X.2015.1129986)
+ * Bilderbeek (2020) 
+   mcbette: model comparison using babette. 
+   Journal of Open Source Software 5.54: 2762. 
+   [https://doi.org/10.21105/joss.02762](https://doi.org/10.21105/joss.02762)
+ * Bilderbeek, Laudanno and Etienne (2020) 
+   Quantifying the impact of an inference model in Bayesian phylogenetics. 
+   Methods in Ecology and Evolution. 
+   [https://doi.org/10.1111/2041-210X.13514](https://doi.org/10.1111/2041-210X.13514)
+ * Bilderbeek and Etienne (2018) 
+   babette: BEAUti 2, BEAST2 and Tracer for R. 
+   Methods in Ecology and Evolution 9, no. 9: 2034-2040. 
+   [https://doi.org/10.1111/2041-210X.13032](https://doi.org/10.1111/2041-210X.13032)
+ * van den Bogaart, Bilderbeek, Schaap, Hummel and Kirschner (2016) 
+   A computer-supported method to reveal and assess Personal Professional Theories in vocational education. 
+   Technology, pedagogy and education 25, no. 5: 613-629. 
+   [https://doi.org/10.1080/1475939X.2015.1129986](https://doi.org/10.1080/1475939X.2015.1129986)
 
 ## Professional publications
 
