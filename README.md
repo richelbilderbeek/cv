@@ -167,6 +167,7 @@ Name                                                           |Downloads       
 [babette](https://github.com/ropensci/babette)                 |[![](http://cranlogs.r-pkg.org/badges/babette)](https://CRAN.R-project.org/package=babette)  |[![](http://cranlogs.r-pkg.org/badges/grand-total/babette)](https://CRAN.R-project.org/package=babette)
 [beastier](https://github.com/ropensci/beastier)               |[![](http://cranlogs.r-pkg.org/badges/beastier)](https://CRAN.R-project.org/package=beastier)|[![](http://cranlogs.r-pkg.org/badges/grand-total/beastier)](https://CRAN.R-project.org/package=beastier)
 [beautier](https://github.com/ropensci/beautier)               |[![](http://cranlogs.r-pkg.org/badges/beautier)](https://CRAN.R-project.org/package=beautier)|[![](http://cranlogs.r-pkg.org/badges/grand-total/beautier)](https://CRAN.R-project.org/package=beautier)
+[mcbette](https://github.com/ropensci/mcbette)                 |[![](http://cranlogs.r-pkg.org/badges/mcbette)](https://CRAN.R-project.org/package=mcbette)        |[![](http://cranlogs.r-pkg.org/badges/grand-total/mcbette)](https://CRAN.R-project.org/package=mcbette)
 [tracerer](https://github.com/ropensci/tracerer)               |[![](http://cranlogs.r-pkg.org/badges/tracerer)](https://CRAN.R-project.org/package=tracerer)|[![](http://cranlogs.r-pkg.org/badges/grand-total/tracerer)](https://CRAN.R-project.org/package=tracerer)
 
 ## Academic R packages I contributed to or maintain
