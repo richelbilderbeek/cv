@@ -120,7 +120,7 @@ Period   |Course                                                         |Certif
 
 ## Podcast
 
- * CppCast, 'Travis CI', 2017
+ * [CppCast, 'Travis CI', 2017](https://cppcast.libsyn.com/travis-ci-with-richel-bilderbeek)
 
 ## Teaching material
 
