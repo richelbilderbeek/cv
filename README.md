@@ -202,12 +202,13 @@ Name                                                           |Downloads       
 ### Interns from secondary school
 
  * Anne Hinrichs
- * Marijn Meerveld
+ * Aram Petiet
  * Jeroen van Niemendal
  * Jorn Prenger
+ * Joshua van Waardenberg
+ * Marijn Meerveld
  * Mart Prenger
  * Rijk van Putten
- * Joshua van Waardenberg
 
 ## Academic simulations
 
