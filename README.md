@@ -197,7 +197,7 @@ Name                                                           |Downloads       
  * Elles Jetten
  * Dave Nijhuis
  * Damian Over
- * Femke Thon
+ * Femke Thon, [University of Bielefeld](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/verbuende/chemodiversity/team/)
 
 ### Interns from secondary school
 
