@@ -203,11 +203,14 @@ Name                                                           |Downloads       
 
  * Anne Hinrichs
  * Aram Petiet
+ * Hidde Nauta
+ * Jasper Bakker
  * Jeroen van Niemendal
  * Jorn Prenger
  * Joshua van Waardenberg
  * Marijn Meerveld
  * Mart Prenger
+ * Owen Moorman
  * Rijk van Putten
 
 ## Academic simulations
