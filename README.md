@@ -47,6 +47,15 @@ Date and place of (intended) doctoral degree as stated on your certificate| Sept
 Supervisor ('Promotor')                                                   | Rampal Etienne
 Title of thesis                                                           | Speciation and the error we make in phylogenetic inference
 
+### Postdoctorate
+
+Parameter                                                                 | Value
+--------------------------------------------------------------------------|------------------------------------------
+University/College of Higher Education                                    | University of Groningen
+Timespan                                                                  | April 2020-March 2021
+Professor                                                                 | Geert van den Bogaart
+Project title                                                             | The overlooked importance of TMHs in immunology 
+
 ### International activities and extended periods of study/research abroad
 
  * Bochum, Germany, MSc project, 6 months
