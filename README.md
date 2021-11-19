@@ -88,6 +88,8 @@ Period   |Course                                                         |Certic
 
 Period   |Course                                                         |Certificate
 ---------|---------------------------------------------------------------|---
+2021     |SFI D level                                                    |N/A
+2021     |SFI C level                                                    |N/A
 2019     |AIDA freediving level 1                                        |Yes
 2014     |Salsa dancing, mid 1                                           |No
 2013     |Skateboarding, Colloseum Groningen                             |No
