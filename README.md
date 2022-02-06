@@ -7,8 +7,8 @@ Curriculum vitae
  * Name: Richèl J.C. Bilderbeek
  * Street: ---
  * ZIP code: ---
- * City: Groningen
- * Country: The Netherlands
+ * City: Uppsala
+ * Country: Sweden
  * Telephone number: ---
  * E-mail: ---
 
@@ -55,6 +55,13 @@ University/College of Higher Education                                    | Univ
 Timespan                                                                  | April 2020-March 2021
 Professor                                                                 | Geert van den Bogaart
 Project title                                                             | The overlooked importance of TMHs in immunology 
+
+Parameter                                                                 | Value
+--------------------------------------------------------------------------|------------------------------------------
+University/College of Higher Education                                    | Uppsala University
+Timespan                                                                  | April 2021-March 2023
+Professor                                                                 | Åsa Johansson
+Project title                                                             | Machine learning in quantitative trait prediction
 
 ### International activities and extended periods of study/research abroad
 
@@ -240,8 +247,8 @@ Name                                                           |Downloads       
 
 ## Teams I lead
 
- * informalr, 2020-present
- * tresinformal, 2019-2020
+ * tresinformal, 2019-present
+ * informalr, 2020-2021
  * Team Octane, 2017-2018
 
 ## Work experience
@@ -250,17 +257,21 @@ Ordered by ending date, then beginning date, most recent at top.
 
 Period           |Function
 -----------------|-------------------------------------------------------------------------------------------
-May 2019-present |Coordinator Arduino and mBot course (voluntarily)
-Jan 2019-present |Organization of taking 12-18 yo kids to academic lectures (voluntarily)  
-Sep 2018-present |Coordinator C++ programmers 'Team Octane'  (voluntarily)
-Oct 2017-present |Independent research with Megan Korte
-Apr 2015-present |Coordinator Processing course (voluntarily)
-Nov 2018-present |Freelance researcher: BBBQ (voluntarily)
-Sep 2014-present |PhD
+Apr 2021-present |Postdoc in Genetic epidemiology
+Sep 2019-present |Lead developer C++ programming team 'tresinformal' (voluntarily)
+Sep 2021-present |Coordinator programming course (voluntarily)
+Apr 2020-Mar 2021|Postdoc in Immunology
+May 2019-Jan 2021|Coordinator Arduino and mBot course (voluntarily)
+Jan 2019-Jan 2021|Organization of taking 12-18 yo kids to academic lectures (voluntarily)  
+Apr 2015-Jan 2021|Coordinator Processing course (voluntarily)
+Sep 2014-Oct 2020|PhD
+Nov 2018-Nov 2019|Freelance researcher: BBBQ (voluntarily)
+Sep 2018-Sep 2019|Coordinator C++ programmers 'Team Octane'  (voluntarily)
 Oct 2018-Feb 2019|Outreach: Skype a Scientist
 Dec 2018-Jan 2019|Freelance instructor mBot at Parcival
-??? ????-Dec 2018|TRES PhD representative
+Dec 2017-Dec 2018|TRES PhD representative
 Sep 2018-Dec 2018|Organiser of expert lectures at De Jonge Onderzoekers (voluntarily)  
+Oct 2017-Oct 2018|Independent research with Megan Korte
 Jan 2014-Sep 2018|Coordinator Arduino course (voluntarily)
 Feb 2015-Sep 2018|Coordinator R User Group Groningen (voluntarily)
 Aug 2012-Aug 2018|Independent researcher: BrainWeaver
@@ -346,7 +357,6 @@ Feb 2013-present|Co-founder hackerspace Hive5
 Jan 2010-Nov 2012|Presenter Open Podium
 Jun 2010|Actor ATS
 
-
 ## Hobbies
 
  * Composing and performing songs on the piano
@@ -365,19 +375,21 @@ Jun 2010|Actor ATS
 
 ## Natural languages
 
-Language|Writing|Speaking
---------|-------|--------  
-Dutch   |Good   |Good
-English |Good   |Good
-German  |Fine   |Fine
+Language|Writing |Speaking
+--------|--------|--------  
+Dutch   |Good    |Good
+English |Good    |Good
+German  |Fine    |Fine
+Swedish |Mediocre|Mediocre
 
 ## Programming languages
 
-Language|Skill|Years of experience
---------|-----|-------------------
-C++     |Good |20
-R       |Good |5
-
+Language|Skill    |Years of experience
+--------|---------|-------------------
+C++     |Good     |20
+Python  |Mediocre |3
+R       |Good     |5
+Rust    |Mediocre |1
 
 ## GitHub stats
 
