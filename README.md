@@ -359,19 +359,22 @@ Jun 2010|Actor ATS
 
 ## Hobbies
 
+ * Programming
+ * Studying
+ * Member of Uppsala Makerspace
+ * Chess
+ * Ballroom dancing
+ * Member of Mensa
  * Composing and performing songs on the piano
- * Programming cross-platform tools, simulations and games, both desktop and web applications
  * Handicrafts: welding, forging, sculpturing
  * Stagecraft, both light and sound engineering
  * Skateboarding
- * Studying biology, math, chemistry, physics, astronomy, statistics
- * Member of Maakplek, Mensa
  
 ## Music bands I played in
 
  * Het Bilderbeek, Bilderbeek en Bogaart, Bogaart Quartet (2002)
  * The Fanstars (2007)
- * Dubai Coke, [https://dubaicoke.nl](https://dubaicoke.nl) (2020-present)
+ * Dubai Coke, [https://dubaicoke.nl](https://dubaicoke.nl) (2020)
 
 ## Natural languages
 
