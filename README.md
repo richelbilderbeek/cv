@@ -94,18 +94,22 @@ Period   |Course                                                         |Certic
 ## Courses, not work-related
 
 Period   |Course                                                         |Certificate
----------|---------------------------------------------------------------|---
-2021     |SFI D level                                                    |N/A
-2021     |SFI C level                                                    |N/A
+---------|---------------------------------------------------------------|-----------
+2021     |SFI D level                                                    |Yes
+2021     |SFI C level                                                    |Yes
+2020     |Ballroom dancing, silver                                       |Yes
+2019     |Forging, Stevens Smederij, Groningen                           |N/A
 2019     |AIDA freediving level 1                                        |Yes
-2014     |Salsa dancing, mid 1                                           |No
-2013     |Skateboarding, Colloseum Groningen                             |No
-2013     |Bachata, beginners                                             |No
-2013     |Salsa dancing, beginner                                        |No
+2019     |Ballroom dancing, bronze                                       |Yes
+2014     |Salsa dancing, mid 1                                           |N/A
+2013     |Skateboarding, Colloseum Groningen                             |N/A
+2013     |Bachata, beginners                                             |N/A
+2013     |Salsa dancing, beginner                                        |N/A
 2013     |Ballroom dancing, silver star                                  |Yes
-2012     |Ballroom dancing, silver                                       |Yes
-2006     |Basics of forging                                              |Yes
-2006     |Basics of welding                                              |Yes
+2012     |Ballroom dancing, bronze and silver                            |Yes
+2006     |Basics of forging                                              |N/A
+2006     |Basics of car maintainance                                     |N/A
+2006     |Basics of welding                                              |N/A
 
 ## Academic publications
 
