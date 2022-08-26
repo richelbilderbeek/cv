@@ -170,7 +170,7 @@ Period   |Course                                                         |Certif
 ## English course material
 
  * [Correct C++](https://github.com/richelbilderbeek/correct_cpp)
- * [git for youngsters](https://github.com/richelbilderbeek/git_voor_youngsters)
+ * [git for youngsters](https://github.com/richelbilderbeek/git_for_youngsters)
 
 ## Dutch course material
 
