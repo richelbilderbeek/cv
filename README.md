@@ -148,6 +148,7 @@ Period   |Course                                                         |Certif
 
 ## Professional publications
 
+ * [Singularity blog post](https://github.com/richelbilderbeek/singularity_blog_post)
  * [Continuous integration with Travis CI](https://arne-mertz.de/2017/04/continuous-integration-travis-ci):
    a guest blog post on [Simplify C++](https://arne-mertz.de/) 
  * [Raising Your Code to Professional Standards](https://github.com/richelbilderbeek/sdj_raising_your_code_to_professional_standards):
