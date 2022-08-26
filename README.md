@@ -150,10 +150,8 @@ Period   |Course                                                         |Certif
 
  * [Continuous integration with Travis CI](https://arne-mertz.de/2017/04/continuous-integration-travis-ci):
    a guest blog post on [Simplify C++](https://arne-mertz.de/) 
- * [Raising Your Code to Professional Standards](https://sdjournal.org/raising-code-professional-standards):
-   a free (that is, it can be read without paying) article for [SDJournal](https://sdjournal.org).
-   Also available at 
-   [https://github.com/richelbilderbeek/sdj_raising_your_code_to_professional_standards](https://github.com/richelbilderbeek/sdj_raising_your_code_to_professional_standards)
+ * [Raising Your Code to Professional Standards](https://github.com/richelbilderbeek/sdj_raising_your_code_to_professional_standards):
+   a free article for the (discontinued) SDJournal.
  * [Methods.blog post: The babette R Package: How to Sooth the Phylogenetic BEAST2](https://methodsblog.wordpress.com/2018/06/25/babette-beast2/)
  * [rOpenSci blog post: Call BEAST2 for Bayesian evolutionary analysis from R](https://ropensci.org/blog/2020/01/28/babette/)
  * [rOpenSci blog post: Selecting the Best Phylogenetic Evolutionary Model](https://ropensci.org/blog/2020/12/01/mcbette-selecting-the-best-inference-model/)
