@@ -59,7 +59,7 @@ Project title                                                             | The 
 Parameter                                                                 | Value
 --------------------------------------------------------------------------|------------------------------------------
 University/College of Higher Education                                    | Uppsala University
-Timespan                                                                  | April 2021-March 2023
+Timespan                                                                  | April 2021-Juli 2022 (aborted)
 Professor                                                                 | Åsa Johansson
 Project title                                                             | Machine learning in quantitative trait prediction
 
@@ -113,6 +113,19 @@ Period   |Course                                                         |Certif
 
 ## Academic publications
 
+ * Bilderbeek (in preparation).
+   The computer code of computational research is vital paradata, 
+   the academic paper optional metadata.
+   Edited volume on paradata.
+ * Lambert, Neves, Bilderbeek, Valente & Etienne (2022). 
+   The effect of mainland dynamics on data 
+   and parameter estimates in island biogeography. 
+   [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.13.476210v2.full)
+   (accepted for publication).
+ * Bilderbeek, Baranov, Van Den Bogaart & Bianchi (2021). 
+   Transmembrane Helices Are an Over-Presented and Evolutionarily Conserved 
+   Source of Major Histocompatibility Complex Class I and II Epitopes. 
+   [Frontiers in immunology, 12](https://www.frontiersin.org/articles/10.3389/fimmu.2021.763044/full).
  * Bilderbeek (2020) 
    mcbette: model comparison using babette. 
    Journal of Open Source Software 5.54: 2762. 
@@ -155,15 +168,21 @@ Period   |Course                                                         |Certif
 
 ## English course material
 
- * [Correct C++](https://github.com/richelbilderbeek/correct_cpp): an online C++ course
+ * [Correct C++](https://github.com/richelbilderbeek/correct_cpp)
+ * [git for youngsters](https://github.com/richelbilderbeek/git_voor_youngsters)
 
 ## Dutch course material
 
- * [Arduino voor jonge tieners](https://github.com/richelbilderbeek/arduino_voor_jonge_tieners) (Dutch)
- * [C++ voor jonge tieners](https://github.com/richelbilderbeek/cpp_voor_jonge_tieners) (Dutch)
- * [git voor jonge tieners](https://github.com/richelbilderbeek/git_voor_jonge_tieners) (Dutch)
- * [mBot voor jonge tieners](https://github.com/richelbilderbeek/mbot_voor_jonge_tieners) (Dutch)
- * [Processing voor jonge tieners](https://github.com/richelbilderbeek/processing_voor_jonge_tieners) (Dutch)
+ * [Arduino voor jonge tieners](https://github.com/richelbilderbeek/arduino_voor_jonge_tieners)
+ * [C++ voor jonge tieners](https://github.com/richelbilderbeek/cpp_voor_jonge_tieners)
+ * [git voor jonge tieners](https://github.com/richelbilderbeek/git_voor_jonge_tieners)
+ * [mBot voor jonge tieners](https://github.com/richelbilderbeek/mbot_voor_jonge_tieners)
+ * [Processing voor jonge tieners](https://github.com/richelbilderbeek/processing_voor_jonge_tieners)
+
+## Swedish course material
+
+ * [Arduino för ungdomar](https://github.com/richelbilderbeek/arduino_foer_ungdomar)
+ * [Processing för ungdomar](https://github.com/richelbilderbeek/processing_foer_ungdomar)
 
 ## Academic R packages I wrote and maintain
 
@@ -261,9 +280,9 @@ Ordered by ending date, then beginning date, most recent at top.
 
 Period           |Function
 -----------------|-------------------------------------------------------------------------------------------
-Apr 2021-present |Postdoc in Genetic epidemiology
 Sep 2019-present |Lead developer C++ programming team 'tresinformal' (voluntarily)
-Sep 2021-present |Coordinator programming course (voluntarily)
+Sep 2021-present |Coordinator Arduino and programming courses (voluntarily)
+Apr 2021-Jun 2022|Postdoc in Genetic epidemiology (aborted)
 Apr 2020-Mar 2021|Postdoc in Immunology
 May 2019-Jan 2021|Coordinator Arduino and mBot course (voluntarily)
 Jan 2019-Jan 2021|Organization of taking 12-18 yo kids to academic lectures (voluntarily)  
@@ -274,7 +293,7 @@ Sep 2018-Sep 2019|Coordinator C++ programmers 'Team Octane'  (voluntarily)
 Oct 2018-Feb 2019|Outreach: Skype a Scientist
 Dec 2018-Jan 2019|Freelance instructor mBot at Parcival
 Dec 2017-Dec 2018|TRES PhD representative
-Sep 2018-Dec 2018|Organiser of expert lectures at De Jonge Onderzoekers (voluntarily)  
+Sep 2018-Dec 2018|Organiser of expert lectures at De Jonge Onderzoekers (voluntarily)
 Oct 2017-Oct 2018|Independent research with Megan Korte
 Jan 2014-Sep 2018|Coordinator Arduino course (voluntarily)
 Feb 2015-Sep 2018|Coordinator R User Group Groningen (voluntarily)
@@ -317,7 +336,8 @@ Jan 1999-Feb 1999|Leader homework-camp: Leading a nine-day camp for secondary sc
 ## Activitities
 
 Day     |Activity
---------|--------------------------------
+--------|---------------------------------------
+May 2022|Organiser Programmeringsdag for 8-18 yo
 Jun 2019|Organiser Hackathon for 12-18 yo
 May 2019|Organiser Hackathon for 12-18 yo
 May 2019|Coach Django Girls
@@ -383,9 +403,10 @@ Jun 2010|Actor ATS
 ## Natural languages
 
 Language|Writing |Speaking
---------|--------|--------  
+--------|--------|--------
 Dutch   |Good    |Good
 English |Good    |Good
+French  |Basic   |Basic
 German  |Fine    |Fine
 Swedish |Mediocre|Mediocre
 
