@@ -116,16 +116,17 @@ Period   |Course                                                         |Certif
  * Bilderbeek (in preparation).
    The computer code of computational research is vital paradata, 
    the academic paper optional metadata.
-   Edited volume on paradata.
+   Edited volume on paradata
  * Lambert, Neves, Bilderbeek, Valente & Etienne (2022). 
    The effect of mainland dynamics on data 
    and parameter estimates in island biogeography. 
    [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.13.476210v2.full)
-   (accepted for publication).
+   (accepted for publication)
  * Bilderbeek, Baranov, Van Den Bogaart & Bianchi (2021). 
    Transmembrane Helices Are an Over-Presented and Evolutionarily Conserved 
    Source of Major Histocompatibility Complex Class I and II Epitopes. 
-   [Frontiers in immunology, 12](https://www.frontiersin.org/articles/10.3389/fimmu.2021.763044/full).
+   [Frontiers in immunology, 12](https://www.frontiersin.org/articles/10.3389/fimmu.2021.763044/full)
+   [GitHub repository with all code](https://github.com/richelbilderbeek/bbbq_article)
  * Bilderbeek (2020) 
    mcbette: model comparison using babette. 
    Journal of Open Source Software 5.54: 2762. 
@@ -134,10 +135,12 @@ Period   |Course                                                         |Certif
    Quantifying the impact of an inference model in Bayesian phylogenetics. 
    Methods in Ecology and Evolution. 
    [https://doi.org/10.1111/2041-210X.13514](https://doi.org/10.1111/2041-210X.13514)
+   [GitHub repository with all code](https://github.com/richelbilderbeek/pirouette_article)
  * Bilderbeek and Etienne (2018) 
    babette: BEAUti 2, BEAST2 and Tracer for R. 
    Methods in Ecology and Evolution 9, no. 9: 2034-2040. 
    [https://doi.org/10.1111/2041-210X.13032](https://doi.org/10.1111/2041-210X.13032)
+   [GitHub repository with all code](https://github.com/richelbilderbeek/babette_article)
  * van den Bogaart, Bilderbeek, Schaap, Hummel and Kirschner (2016) 
    A computer-supported method to reveal and assess Personal Professional Theories in vocational education. 
    Technology, pedagogy and education 25, no. 5: 613-629. 
