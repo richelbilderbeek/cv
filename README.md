@@ -424,3 +424,6 @@ Rust    |Mediocre |1
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=richelbilderbeek&show_icons=true)
 
+## This page build badge
+
+[![check-links](https://github.com/richelbilderbeek/cv/actions/workflows/check_links.yaml/badge.svg?branch=master)](https://github.com/richelbilderbeek/cv/actions/workflows/check_links.yaml)
