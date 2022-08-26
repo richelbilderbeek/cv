@@ -214,16 +214,16 @@ Name                                                           |Downloads       
 [mcbette](https://github.com/ropensci/mcbette)                 |[![](http://cranlogs.r-pkg.org/badges/mcbette)](https://CRAN.R-project.org/package=mcbette)        |[![](http://cranlogs.r-pkg.org/badges/grand-total/mcbette)](https://CRAN.R-project.org/package=mcbette)
 [tracerer](https://github.com/ropensci/tracerer)               |[![](http://cranlogs.r-pkg.org/badges/tracerer)](https://CRAN.R-project.org/package=tracerer)|[![](http://cranlogs.r-pkg.org/badges/grand-total/tracerer)](https://CRAN.R-project.org/package=tracerer)
 
-## Academic R packages I contributed to or maintain
+## Academic R packages I contributed to
 
-Name                                                           |Downloads                                                                                    |Total number of downloads
----------------------------------------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------
-[DAISIE](https://github.com/rsetienne/DAISIE) [1]              |[![](http://cranlogs.r-pkg.org/badges/DAISIE)](https://CRAN.R-project.org/package=DAISIE)    |[![](http://cranlogs.r-pkg.org/badges/grand-total/DAISIE)](https://CRAN.R-project.org/package=DAISIE)
-[nLTT](https://github.com/thijsjanzen/nLTT) [2]                |[![](http://cranlogs.r-pkg.org/badges/nLTT)](https://CRAN.R-project.org/package=nLTT)        |[![](http://cranlogs.r-pkg.org/badges/grand-total/nLTT)](https://CRAN.R-project.org/package=nLTT)
-[phangorn](https://github.com/klausvigo/phangorn) [2]          |[![](http://cranlogs.r-pkg.org/badges/phangorn)](https://CRAN.R-project.org/package=phangorn)|[![](http://cranlogs.r-pkg.org/badges/grand-total/phangorn)](https://CRAN.R-project.org/package=phangorn)
-
- * [1] maintainer and contributor
- * [2] contributor
+Name                                                        |Downloads                                                                                    |Total number of downloads
+------------------------------------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------
+[DAISIE](https://github.com/rsetienne/DAISIE)               |[![](http://cranlogs.r-pkg.org/badges/DAISIE)](https://CRAN.R-project.org/package=DAISIE)    |[![](http://cranlogs.r-pkg.org/badges/grand-total/DAISIE)](https://CRAN.R-project.org/package=DAISIE)
+[GenomeAdmixR](https://github.com/thijsjanzen/GenomeAdmixR) |[![](http://cranlogs.r-pkg.org/badges/DAISIE)](https://CRAN.R-project.org/package=DAISIE)    |[![](http://cranlogs.r-pkg.org/badges/grand-total/GenomeAdmixR)](https://CRAN.R-project.org/package=GenomeAdmixR)
+[markovchain](https://github.com/spedygiorgio/markovchain)  |[![](http://cranlogs.r-pkg.org/badges/DAISIE)](https://CRAN.R-project.org/package=DAISIE)    |[![](http://cranlogs.r-pkg.org/badges/grand-total/markovchain)](https://CRAN.R-project.org/package=markovchain)
+[nLTT](https://github.com/thijsjanzen/nLTT)                 |[![](http://cranlogs.r-pkg.org/badges/nLTT)](https://CRAN.R-project.org/package=nLTT)        |[![](http://cranlogs.r-pkg.org/badges/grand-total/nLTT)](https://CRAN.R-project.org/package=nLTT)
+[Peptides](https://github.com/dosorio/Peptides)             |[![](http://cranlogs.r-pkg.org/badges/phangorn)](https://CRAN.R-project.org/package=phangorn)|[![](http://cranlogs.r-pkg.org/badges/grand-total/Peptides)](https://CRAN.R-project.org/package=Peptides)
+[phangorn](https://github.com/klausvigo/phangorn)           |[![](http://cranlogs.r-pkg.org/badges/phangorn)](https://CRAN.R-project.org/package=phangorn)|[![](http://cranlogs.r-pkg.org/badges/grand-total/phangorn)](https://CRAN.R-project.org/package=phangorn)
 
 ## Academic supervision
 
