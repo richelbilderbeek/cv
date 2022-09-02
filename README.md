@@ -428,3 +428,19 @@ Rust    |Mediocre |1
 ## This page build badge
 
 [![check-links](https://github.com/richelbilderbeek/cv/actions/workflows/check_links.yaml/badge.svg?branch=master)](https://github.com/richelbilderbeek/cv/actions/workflows/check_links.yaml)
+
+## Build statuses
+
+Name                                                           |Downloads [1]                                                                                      |Total number of downloads [1]                                                       
+---------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------
+[babette](https://github.com/ropensci/babette)                 |[![](http://cranlogs.r-pkg.org/badges/babette)](https://CRAN.R-project.org/package=babette)        |[![](http://cranlogs.r-pkg.org/badges/grand-total/babette)](https://CRAN.R-project.org/package=babette)
+[beastier](https://github.com/ropensci/beastier)               |[![](http://cranlogs.r-pkg.org/badges/beastier)](https://CRAN.R-project.org/package=beastier)      |[![](http://cranlogs.r-pkg.org/badges/grand-total/beastier)](https://CRAN.R-project.org/package=beastier)
+[beautier](https://github.com/ropensci/beautier)               |[![](http://cranlogs.r-pkg.org/badges/beautier)](https://CRAN.R-project.org/package=beautier)      |[![](http://cranlogs.r-pkg.org/badges/grand-total/beautier)](https://CRAN.R-project.org/package=beautier)
+[mauricer](https://github.com/ropensci/mauricer)               |[![](http://cranlogs.r-pkg.org/badges/mauricer)](https://CRAN.R-project.org/package=mauricer)      |[![](http://cranlogs.r-pkg.org/badges/grand-total/mauricer)](https://CRAN.R-project.org/package=mauricer)
+[mcbette](https://github.com/ropensci/mcbette)                 |[![](http://cranlogs.r-pkg.org/badges/mcbette)](https://CRAN.R-project.org/package=mcbette)        |[![](http://cranlogs.r-pkg.org/badges/grand-total/mcbette)](https://CRAN.R-project.org/package=mcbette)
+[mhcnuggetsr](https://github.com/richelbilderbeek/mhcnuggetsr) |[![](http://cranlogs.r-pkg.org/badges/mhcnuggetsr)](https://CRAN.R-project.org/package=mhcnuggetsr)|[![](http://cranlogs.r-pkg.org/badges/grand-total/mhcnuggetsr)](https://CRAN.R-project.org/package=mhcnuggetsr)
+[netmhc2pan](https://github.com/richelbilderbeek/netmhc2pan)   |[![](http://cranlogs.r-pkg.org/badges/netmhc2pan)](https://CRAN.R-project.org/package=netmhc2pan)|[![](http://cranlogs.r-pkg.org/badges/grand-total/netmhc2pan)](https://CRAN.R-project.org/package=netmhc2pan)                                                                                                |[2]
+[pirouette](https://github.com/richelbilderbeek/pirouette)     |[![](http://cranlogs.r-pkg.org/badges/pirouette)](https://CRAN.R-project.org/package=pirouette)    |[![](http://cranlogs.r-pkg.org/badges/grand-total/pirouette)](https://CRAN.R-project.org/package=pirouette)
+[pureseqtmr](https://github.com/richelbilderbeek/pureseqtmr)   |[![](http://cranlogs.r-pkg.org/badges/pureseqtmr)](https://CRAN.R-project.org/package=pureseqtmr)  |[![](http://cranlogs.r-pkg.org/badges/grand-total/pureseqtmr)](https://CRAN.R-project.org/package=pureseqtmr)
+[tmhmm](https://github.com/richelbilderbeek/tmhmm)             |[![](http://cranlogs.r-pkg.org/badges/tmhmm)](https://CRAN.R-project.org/package=tmhmm)|[![](http://cranlogs.r-pkg.org/badges/grand-total/tmhmm)](https://CRAN.R-project.org/package=tmhmm)                                                                                                |[2]
+[tracerer](https://github.com/ropensci/tracerer)               |[![](http://cranlogs.r-pkg.org/badges/tracerer)](https://CRAN.R-project.org/package=tracerer)      |[![](http://cranlogs.r-pkg.org/badges/grand-total/tracerer)](https://CRAN.R-project.org/package=tracerer)
