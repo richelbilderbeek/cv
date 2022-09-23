@@ -225,6 +225,10 @@ Name                                                        |Downloads          
 [Peptides](https://github.com/dosorio/Peptides)             |[![](http://cranlogs.r-pkg.org/badges/phangorn)](https://CRAN.R-project.org/package=phangorn)|[![](http://cranlogs.r-pkg.org/badges/grand-total/Peptides)](https://CRAN.R-project.org/package=Peptides)
 [phangorn](https://github.com/klausvigo/phangorn)           |[![](http://cranlogs.r-pkg.org/badges/phangorn)](https://CRAN.R-project.org/package=phangorn)|[![](http://cranlogs.r-pkg.org/badges/grand-total/phangorn)](https://CRAN.R-project.org/package=phangorn)
 
+## Software I contributed to
+
+ * [mlpack](https://github.com/mlpack/mlpack): a C++ machine-learning library
+
 ## Academic supervision
 
 ### MScs
