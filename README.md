@@ -433,7 +433,7 @@ Rust    |Mediocre |1
 
 ## Build statuses
 
-Name                                                           |Downloads [1]                                                                                      |Total number of downloads [1]                                                       
+Name                                                           |Downloads                                                                                       |Total number of downloads                                                        
 ---------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------
 [babette](https://github.com/ropensci/babette)                 |[![](http://cranlogs.r-pkg.org/badges/babette)](https://CRAN.R-project.org/package=babette)        |[![](http://cranlogs.r-pkg.org/badges/grand-total/babette)](https://CRAN.R-project.org/package=babette)
 [beastier](https://github.com/ropensci/beastier)               |[![](http://cranlogs.r-pkg.org/badges/beastier)](https://CRAN.R-project.org/package=beastier)      |[![](http://cranlogs.r-pkg.org/badges/grand-total/beastier)](https://CRAN.R-project.org/package=beastier)
