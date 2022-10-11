@@ -188,7 +188,7 @@ Period   |Course                                                         |Certif
 
 ## Academic R packages I wrote and maintain
 
-Name                                                           |Downloads [1]                                                                                      |Total number of downloads [1]                                                       
+Name                                                           |Downloads                                                                                       |Total number of downloads                                                        
 ---------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------
 [babette](https://github.com/ropensci/babette)                 |[![](http://cranlogs.r-pkg.org/badges/babette)](https://CRAN.R-project.org/package=babette)        |[![](http://cranlogs.r-pkg.org/badges/grand-total/babette)](https://CRAN.R-project.org/package=babette)
 [beastier](https://github.com/ropensci/beastier)               |[![](http://cranlogs.r-pkg.org/badges/beastier)](https://CRAN.R-project.org/package=beastier)      |[![](http://cranlogs.r-pkg.org/badges/grand-total/beastier)](https://CRAN.R-project.org/package=beastier)
@@ -201,8 +201,6 @@ Name                                                           |Downloads [1]   
 [pureseqtmr](https://github.com/richelbilderbeek/pureseqtmr)   |[![](http://cranlogs.r-pkg.org/badges/pureseqtmr)](https://CRAN.R-project.org/package=pureseqtmr)  |[![](http://cranlogs.r-pkg.org/badges/grand-total/pureseqtmr)](https://CRAN.R-project.org/package=pureseqtmr)
 [tmhmm](https://github.com/richelbilderbeek/tmhmm)             |[![](http://cranlogs.r-pkg.org/badges/tmhmm)](https://CRAN.R-project.org/package=tmhmm)|[![](http://cranlogs.r-pkg.org/badges/grand-total/tmhmm)](https://CRAN.R-project.org/package=tmhmm)                                                                                                |[2]
 [tracerer](https://github.com/ropensci/tracerer)               |[![](http://cranlogs.r-pkg.org/badges/tracerer)](https://CRAN.R-project.org/package=tracerer)      |[![](http://cranlogs.r-pkg.org/badges/grand-total/tracerer)](https://CRAN.R-project.org/package=tracerer)
-
- * [1] for packages that are not on CRAN yet, this number will be zero
 
 ## Peer-reviewed R packages I wrote and maintain
 
