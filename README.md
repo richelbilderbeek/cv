@@ -167,6 +167,7 @@ Period   |Course                                                         |Certif
    book about the Boost.Graph library
  * [How to add a custom tree prior to BEAST2](https://github.com/BEAST2-Dev/beast-docs/blob/master/CreateNewTreePrior/CreateNewTreePrior.md)
  * [Travis CI for C++ Tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial)
+ * [Theatertechniek](https://github.com/richelbilderbeek/theatertechniek): stagecraft (Dutch)
 
 ## English course material
 
@@ -270,11 +271,10 @@ Name                                                        |Downloads          
  * [SimImmuneResponse](https://github.com/richelbilderbeek/SimImmuneResponse): human immune response simulator
  * [SimStagecraft](https://github.com/richelbilderbeek/SimStagecraft): stagecraft simulator
  * [SoaSim](https://github.com/richelbilderbeek/SoaSim): STD transmission simulator
- * [Theatertechniek](https://github.com/richelbilderbeek/theatertechniek): stagecraft (Dutch)
 
 ## Teams I lead
 
- * tresinformal, 2019-present
+ * tresinformal, 2019-2024
  * informalr, 2020-2021
  * Team Octane, 2017-2018
 
@@ -284,8 +284,9 @@ Ordered by ending date, then beginning date, most recent at top.
 
 Period           |Function
 -----------------|-------------------------------------------------------------------------------------------
-Sep 2019-present |Lead developer C++ programming team 'tresinformal' (voluntarily)
-Sep 2021-present |Coordinator Arduino and programming courses (voluntarily)
+Mar 2023-present |Application expert 
+Sep 2021-present |Coordinator Arduino, Blender and programming courses (voluntarily)
+Sep 2019-Mar 2024|Lead developer C++ programming team 'tresinformal' (voluntarily)
 Apr 2021-Jun 2022|Postdoc in Genetic epidemiology (aborted)
 Apr 2020-Mar 2021|Postdoc in Immunology
 May 2019-Jan 2021|Coordinator Arduino and mBot course (voluntarily)
@@ -336,6 +337,15 @@ Aug 2003-Oct 2003|Course developer 'C++ for biologists': developing, supervising
 Jan 2003-Jul 2003|Student researcher in theoretical biology: developing an individual-based simulation in C++ about the evolution of hermaphroditism under the supervision of Drs. G.S. van Doorn for Theoretical Biology at the University of Groningen
 Apr 1999-May 1999|Leader homework-camp: Leading a nine-day camp for secondary school students that need aiding in their courses, for Anderwijs, Utrecht
 Jan 1999-Feb 1999|Leader homework-camp: Leading a nine-day camp for secondary school students that need aiding in their courses, for Anderwijs, Utrecht
+
+## Recurring activitities
+
+Day             |Frequency|Activity
+----------------|---------|------------------------------
+Jan 2023-present|Monthly  |Open Science Uppsala meeting
+Mar 2023-present|Monthly  |Navet Beer Club
+Mar 2014-present|Yearly   |Pi Day
+Mar 2012-present|Yearly   |Pi Approximation Day
 
 ## Activitities
 
@@ -411,8 +421,8 @@ Language|Writing |Speaking
 Dutch   |Good    |Good
 English |Good    |Good
 French  |Basic   |Basic
-German  |Fine    |Fine
-Swedish |Mediocre|Mediocre
+German  |Mediocre|Mediocre
+Swedish |Fine    |Fine
 
 ## Programming languages
 
