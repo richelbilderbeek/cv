@@ -258,6 +258,10 @@ Name                                                        |Downloads          
  * Owen Moorman
  * Rijk van Putten
 
+### PRAOs
+
+ * Arvid
+
 ## Academic simulations
 
  * [Korter Project](https://github.com/richelbilderbeek/korter_project)
@@ -284,9 +288,9 @@ Ordered by ending date, then beginning date, most recent at top.
 
 Period           |Function
 -----------------|-------------------------------------------------------------------------------------------
-Mar 2023-present |Application expert 
-Sep 2021-present |Coordinator Arduino, Blender and programming courses (voluntarily)
-Sep 2019-Mar 2024|Lead developer C++ programming team 'tresinformal' (voluntarily)
+Mar 2023-present |[Application expert](https://nbis.se/staff/employee-richel-bilderbeek)
+Sep 2021-present |[Coordinator Arduino, Blender and programming courses](https://uppsala-makerspace.github.io/loerdagskurser/)  (voluntarily)
+Sep 2019-Mar 2024|[Lead developer C++ programming team 'tresinformal'](https://github.com/tresinformal) (voluntarily)
 Apr 2021-Jun 2022|Postdoc in Genetic epidemiology (aborted)
 Apr 2020-Mar 2021|Postdoc in Immunology
 May 2019-Jan 2021|Coordinator Arduino and mBot course (voluntarily)
@@ -342,10 +346,10 @@ Jan 1999-Feb 1999|Leader homework-camp: Leading a nine-day camp for secondary sc
 
 Day             |Frequency|Activity
 ----------------|---------|------------------------------
-Jan 2023-present|Monthly  |Open Science Uppsala meeting
-Mar 2023-present|Monthly  |Navet Beer Club
-Mar 2014-present|Yearly   |Pi Day
-Mar 2012-present|Yearly   |Pi Approximation Day
+Jan 2023-present|Monthly  |[Open Science Uppsala](https://bit.ly/open_science_uppsala)
+Mar 2023-present|Monthly  |[Navet Beer Club](https://beerclub.nu/)
+Mar 2014-present|Yearly   |[Pi Day](https://github.com/richelbilderbeek/pi_day)
+Mar 2012-present|Yearly   |[Pi Approximation Day](https://github.com/richelbilderbeek/pi_approximation_day)
 
 ## Activitities
 
