@@ -165,6 +165,8 @@ Period   |Course                                                         |Certif
 
  * [Boost Graph Cookbook 1](https://github.com/richelbilderbeek/boost_graph_cookbook_1):
    book about the Boost.Graph library
+ * [Developing Bevy games using TDD](https://richelbilderbeek.github.io/bevy_tdd_book/):
+   book about learning the Bevy Rust gaming library using test-driven development
  * [How to add a custom tree prior to BEAST2](https://github.com/BEAST2-Dev/beast-docs/blob/master/CreateNewTreePrior/CreateNewTreePrior.md)
  * [Travis CI for C++ Tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial)
  * [Theatertechniek](https://github.com/richelbilderbeek/theatertechniek): stagecraft (Dutch)
