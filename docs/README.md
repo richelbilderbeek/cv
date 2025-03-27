@@ -4,25 +4,27 @@ Curriculum vitae
 
 ## Contact information
 
- * Name: Richèl J.C. Bilderbeek
- * Street: ---
- * ZIP code: ---
- * City: Uppsala
- * Country: Sweden
- * Telephone number: ---
- * E-mail: ---
+* Name: Richèl J.C. Bilderbeek
+* Street: ---
+* ZIP code: ---
+* City: Uppsala
+* Country: Sweden
+* Telephone number: ---
+* E-mail: ---
 
 ## Personal information
 
- * Date of birth: the 2nd September of 1980
- * Place of birth: Milsbeek, The Netherlands
- * Gender: Male
- * Homepage: http://www.richelbilderbeek.nl
- * Nationality: Dutch
+* Date of birth: the 2nd September of 1980
+* Place of birth: Milsbeek, The Netherlands
+* Gender: Male
+* Homepage: <http://www.richelbilderbeek.nl>
+* Nationality: Dutch
 
 ## Education, work-related
 
 ### Master's
+
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
 Parameter                             |Value
 --------------------------------------|------------------------------------------
@@ -38,7 +40,11 @@ Faculty                               | University Centre for Learning & Teachin
 Date of the certificate               | August 2006
 Main subject                          | Biology
 
+<!-- markdownlint-enable MD013 -->
+
 ### Doctorate
+
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
 Parameter                                                                 | Value
 --------------------------------------------------------------------------|------------------------------------------
@@ -47,14 +53,18 @@ Date and place of (intended) doctoral degree as stated on your certificate| Sept
 Supervisor ('Promotor')                                                   | Rampal Etienne
 Title of thesis                                                           | Speciation and the error we make in phylogenetic inference
 
+<!-- markdownlint-enable MD013 -->
+
 ### Postdoctorate
+
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
 Parameter                                                                 | Value
 --------------------------------------------------------------------------|------------------------------------------
 University/College of Higher Education                                    | University of Groningen
 Timespan                                                                  | April 2020-March 2021
 Professor                                                                 | Geert van den Bogaart
-Project title                                                             | The overlooked importance of TMHs in immunology 
+Project title                                                             | The overlooked importance of TMHs in immunology
 
 Parameter                                                                 | Value
 --------------------------------------------------------------------------|------------------------------------------
@@ -63,12 +73,16 @@ Timespan                                                                  | Apri
 Professor                                                                 | Åsa Johansson
 Project title                                                             | Machine learning in quantitative trait prediction
 
+<!-- markdownlint-enable MD013 -->
+
 ### International activities and extended periods of study/research abroad
 
- * Bochum, Germany, MSc project, 6 months
- * Bristol, England, MSc project, 3 months
+* Bochum, Germany, MSc project, 6 months
+* Bristol, England, MSc project, 3 months
 
 ### Education
+
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
 Period   |Education                                                      |Diploma
 ---------|---------------------------------------------------------------|---
@@ -77,7 +91,11 @@ Period   |Education                                                      |Diplom
 1999-2005|University of Groningen, Biology, focus on Theoretical Biology |Yes
 1991-1998|VWO, Pax Christi College, Druten                               |Yes
 
+<!-- markdownlint-enable MD013 -->
+
 ### Courses, work-related
+
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
 Period   |Course                                                         |Certicate
 ---------|---------------------------------------------------------------|---
@@ -91,7 +109,11 @@ Period   |Course                                                         |Certic
 2000     |Safe microbiological techniques (VMT), University of Groningen |Yes
 1990     |Programming in BASIC                                           |Yes
 
+<!-- markdownlint-enable MD013 -->
+
 ## Courses, not work-related
+
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
 Period   |Course                                                         |Certificate
 ---------|---------------------------------------------------------------|-----------
@@ -111,187 +133,203 @@ Period   |Course                                                         |Certif
 2006     |Basics of car maintainance                                     |N/A
 2006     |Basics of welding                                              |N/A
 
+<!-- markdownlint-enable MD013 -->
+
 ## Academic publications
 
- * Bilderbeek (in preparation).
-   The computer code of computational research is vital paradata, 
+* Bilderbeek (in preparation).
+   The computer code of computational research is vital paradata,
    the academic paper optional metadata.
    Edited volume on paradata
- * Lambert, Neves, Bilderbeek, Valente & Etienne (2022). 
-   The effect of mainland dynamics on data 
-   and parameter estimates in island biogeography. 
+* Lambert, Neves, Bilderbeek, Valente & Etienne (2022).
+   The effect of mainland dynamics on data
+   and parameter estimates in island biogeography.
    [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.13.476210v2.full)
    (accepted for publication)
- * Bilderbeek, Baranov, Van Den Bogaart & Bianchi (2021). 
-   Transmembrane Helices Are an Over-Presented and Evolutionarily Conserved 
-   Source of Major Histocompatibility Complex Class I and II Epitopes. 
+* Bilderbeek, Baranov, Van Den Bogaart & Bianchi (2021).
+   Transmembrane Helices Are an Over-Presented and Evolutionarily Conserved
+   Source of Major Histocompatibility Complex Class I and II Epitopes.
    [Frontiers in immunology, 12](https://www.frontiersin.org/articles/10.3389/fimmu.2021.763044/full)
    ([GitHub repository with all code](https://github.com/richelbilderbeek/bbbq_article))
- * Bilderbeek (2020) 
-   mcbette: model comparison using babette. 
-   Journal of Open Source Software 5.54: 2762. 
+* Bilderbeek (2020)
+   mcbette: model comparison using babette.
+   Journal of Open Source Software 5.54: 2762.
    [https://doi.org/10.21105/joss.02762](https://doi.org/10.21105/joss.02762)
- * Bilderbeek, Laudanno and Etienne (2020) 
-   Quantifying the impact of an inference model in Bayesian phylogenetics. 
-   Methods in Ecology and Evolution. 
+* Bilderbeek, Laudanno and Etienne (2020)
+   Quantifying the impact of an inference model in Bayesian phylogenetics.
+   Methods in Ecology and Evolution.
    [https://doi.org/10.1111/2041-210X.13514](https://doi.org/10.1111/2041-210X.13514)
    ([GitHub repository with all code](https://github.com/richelbilderbeek/pirouette_article))
- * Bilderbeek and Etienne (2018) 
-   babette: BEAUti 2, BEAST2 and Tracer for R. 
-   Methods in Ecology and Evolution 9, no. 9: 2034-2040. 
+* Bilderbeek and Etienne (2018)
+   babette: BEAUti 2, BEAST2 and Tracer for R.
+   Methods in Ecology and Evolution 9, no. 9: 2034-2040.
    [https://doi.org/10.1111/2041-210X.13032](https://doi.org/10.1111/2041-210X.13032)
    ([GitHub repository with all code](https://github.com/richelbilderbeek/babette_article))
- * van den Bogaart, Bilderbeek, Schaap, Hummel and Kirschner (2016) 
-   A computer-supported method to reveal and assess Personal Professional Theories in vocational education. 
-   Technology, pedagogy and education 25, no. 5: 613-629. 
+* van den Bogaart, Bilderbeek, Schaap, Hummel and Kirschner (2016)
+   A computer-supported method to reveal and assess Personal Professional Theories in vocational education.
+   Technology, pedagogy and education 25, no. 5: 613-629.
    [https://doi.org/10.1080/1475939X.2015.1129986](https://doi.org/10.1080/1475939X.2015.1129986)
 
 ## Professional publications
 
- * [Singularity blog post](https://github.com/richelbilderbeek/singularity_blog_post)
- * [Continuous integration with Travis CI](https://arne-mertz.de/2017/04/continuous-integration-travis-ci):
-   a guest blog post on [Simplify C++](https://arne-mertz.de/) 
- * [Raising Your Code to Professional Standards](https://github.com/richelbilderbeek/sdj_raising_your_code_to_professional_standards):
+* [Singularity blog post](https://github.com/richelbilderbeek/singularity_blog_post)
+* [Continuous integration with Travis CI](https://arne-mertz.de/2017/04/continuous-integration-travis-ci):
+   a guest blog post on [Simplify C++](https://arne-mertz.de/)
+* [Raising Your Code to Professional Standards](https://github.com/richelbilderbeek/sdj_raising_your_code_to_professional_standards):
    a free article for the (discontinued) SDJournal.
- * [Methods.blog post: The babette R Package: How to Sooth the Phylogenetic BEAST2](https://methodsblog.wordpress.com/2018/06/25/babette-beast2/)
- * [rOpenSci blog post: Call BEAST2 for Bayesian evolutionary analysis from R](https://ropensci.org/blog/2020/01/28/babette/)
- * [rOpenSci blog post: Selecting the Best Phylogenetic Evolutionary Model](https://ropensci.org/blog/2020/12/01/mcbette-selecting-the-best-inference-model/)
+* [Methods.blog post: The babette R Package: How to Sooth the Phylogenetic BEAST2](https://methodsblog.wordpress.com/2018/06/25/babette-beast2/)
+* [rOpenSci blog post: Call BEAST2 for Bayesian evolutionary analysis from R](https://ropensci.org/blog/2020/01/28/babette/)
+* [rOpenSci blog post: Selecting the Best Phylogenetic Evolutionary Model](https://ropensci.org/blog/2020/12/01/mcbette-selecting-the-best-inference-model/)
 
 ## Podcast
 
- * [CppCast, 'Travis CI', 2017](https://cppcast.libsyn.com/travis-ci-with-richel-bilderbeek)
+* [CppCast, 'Travis CI', 2017](https://cppcast.libsyn.com/travis-ci-with-richel-bilderbeek)
 
 ## Teaching material
 
- * [Boost Graph Cookbook 1](https://github.com/richelbilderbeek/boost_graph_cookbook_1):
+* [Boost Graph Cookbook 1](https://github.com/richelbilderbeek/boost_graph_cookbook_1):
    book about the Boost.Graph library
- * [Developing Bevy games using TDD](https://richelbilderbeek.github.io/bevy_tdd_book/):
+* [Developing Bevy games using TDD](https://richelbilderbeek.github.io/bevy_tdd_book/):
    book about learning the Bevy Rust gaming library using test-driven development
- * [How to add a custom tree prior to BEAST2](https://github.com/BEAST2-Dev/beast-docs/blob/master/CreateNewTreePrior/CreateNewTreePrior.md)
- * [Travis CI for C++ Tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial)
- * [Theatertechniek](https://github.com/richelbilderbeek/theatertechniek): stagecraft (Dutch)
+* [How to add a custom tree prior to BEAST2](https://github.com/BEAST2-Dev/beast-docs/blob/master/CreateNewTreePrior/CreateNewTreePrior.md)
+* [Travis CI for C++ Tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial)
+* [Theatertechniek](https://github.com/richelbilderbeek/theatertechniek): stagecraft (Dutch)
 
 ## English course material
 
- * [Correct C++](https://github.com/richelbilderbeek/correct_cpp)
- * [git for youngsters](https://github.com/richelbilderbeek/git_for_youngsters)
+* [Correct C++](https://github.com/richelbilderbeek/correct_cpp)
+* [git for youngsters](https://github.com/richelbilderbeek/git_for_youngsters)
 
 ## Dutch course material
 
- * [Arduino voor jonge tieners](https://github.com/richelbilderbeek/arduino_voor_jonge_tieners)
- * [C++ voor jonge tieners](https://github.com/richelbilderbeek/cpp_voor_jonge_tieners)
- * [git voor jonge tieners](https://github.com/richelbilderbeek/git_voor_jonge_tieners)
- * [mBot voor jonge tieners](https://github.com/richelbilderbeek/mbot_voor_jonge_tieners)
- * [Processing voor jonge tieners](https://github.com/richelbilderbeek/processing_voor_jonge_tieners)
+* [Arduino voor jonge tieners](https://github.com/richelbilderbeek/arduino_voor_jonge_tieners)
+* [C++ voor jonge tieners](https://github.com/richelbilderbeek/cpp_voor_jonge_tieners)
+* [git voor jonge tieners](https://github.com/richelbilderbeek/git_voor_jonge_tieners)
+* [mBot voor jonge tieners](https://github.com/richelbilderbeek/mbot_voor_jonge_tieners)
+* [Processing voor jonge tieners](https://github.com/richelbilderbeek/processing_voor_jonge_tieners)
 
 ## Swedish course material
 
- * [Arduino för ungdomar](https://github.com/richelbilderbeek/arduino_foer_ungdomar)
- * [Processing för ungdomar](https://github.com/richelbilderbeek/processing_foer_ungdomar)
+* [Arduino för ungdomar](https://github.com/richelbilderbeek/arduino_foer_ungdomar)
+* [Processing för ungdomar](https://github.com/richelbilderbeek/processing_foer_ungdomar)
 
 ## Academic R packages I wrote and maintain
 
-Name                                                           |Downloads                                                                                       |Total number of downloads                                                        
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
+Name                                                           |Downloads                                                                                       |Total number of downloads
 ---------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------
-[babette](https://github.com/ropensci/babette)                 |[![](http://cranlogs.r-pkg.org/badges/babette)](https://CRAN.R-project.org/package=babette)        |[![](http://cranlogs.r-pkg.org/badges/grand-total/babette)](https://CRAN.R-project.org/package=babette)
-[beastier](https://github.com/ropensci/beastier)               |[![](http://cranlogs.r-pkg.org/badges/beastier)](https://CRAN.R-project.org/package=beastier)      |[![](http://cranlogs.r-pkg.org/badges/grand-total/beastier)](https://CRAN.R-project.org/package=beastier)
-[beautier](https://github.com/ropensci/beautier)               |[![](http://cranlogs.r-pkg.org/badges/beautier)](https://CRAN.R-project.org/package=beautier)      |[![](http://cranlogs.r-pkg.org/badges/grand-total/beautier)](https://CRAN.R-project.org/package=beautier)
-[mauricer](https://github.com/ropensci/mauricer)               |[![](http://cranlogs.r-pkg.org/badges/mauricer)](https://CRAN.R-project.org/package=mauricer)      |[![](http://cranlogs.r-pkg.org/badges/grand-total/mauricer)](https://CRAN.R-project.org/package=mauricer)
-[mcbette](https://github.com/ropensci/mcbette)                 |[![](http://cranlogs.r-pkg.org/badges/mcbette)](https://CRAN.R-project.org/package=mcbette)        |[![](http://cranlogs.r-pkg.org/badges/grand-total/mcbette)](https://CRAN.R-project.org/package=mcbette)
-[mhcnuggetsr](https://github.com/richelbilderbeek/mhcnuggetsr) |[![](http://cranlogs.r-pkg.org/badges/mhcnuggetsr)](https://CRAN.R-project.org/package=mhcnuggetsr)|[![](http://cranlogs.r-pkg.org/badges/grand-total/mhcnuggetsr)](https://CRAN.R-project.org/package=mhcnuggetsr)
-[netmhc2pan](https://github.com/richelbilderbeek/netmhc2pan)   |[![](http://cranlogs.r-pkg.org/badges/netmhc2pan)](https://CRAN.R-project.org/package=netmhc2pan)|[![](http://cranlogs.r-pkg.org/badges/grand-total/netmhc2pan)](https://CRAN.R-project.org/package=netmhc2pan)                                                                                                |[2]
-[pirouette](https://github.com/richelbilderbeek/pirouette)     |[![](http://cranlogs.r-pkg.org/badges/pirouette)](https://CRAN.R-project.org/package=pirouette)    |[![](http://cranlogs.r-pkg.org/badges/grand-total/pirouette)](https://CRAN.R-project.org/package=pirouette)
-[pureseqtmr](https://github.com/richelbilderbeek/pureseqtmr)   |[![](http://cranlogs.r-pkg.org/badges/pureseqtmr)](https://CRAN.R-project.org/package=pureseqtmr)  |[![](http://cranlogs.r-pkg.org/badges/grand-total/pureseqtmr)](https://CRAN.R-project.org/package=pureseqtmr)
-[tmhmm](https://github.com/richelbilderbeek/tmhmm)             |[![](http://cranlogs.r-pkg.org/badges/tmhmm)](https://CRAN.R-project.org/package=tmhmm)|[![](http://cranlogs.r-pkg.org/badges/grand-total/tmhmm)](https://CRAN.R-project.org/package=tmhmm)                                                                                                |[2]
-[tracerer](https://github.com/ropensci/tracerer)               |[![](http://cranlogs.r-pkg.org/badges/tracerer)](https://CRAN.R-project.org/package=tracerer)      |[![](http://cranlogs.r-pkg.org/badges/grand-total/tracerer)](https://CRAN.R-project.org/package=tracerer)
+[babette](https://github.com/ropensci/babette)                 |[![image](http://cranlogs.r-pkg.org/badges/babette)](https://CRAN.R-project.org/package=babette)        |[![image](http://cranlogs.r-pkg.org/badges/grand-total/babette)](https://CRAN.R-project.org/package=babette)
+[beastier](https://github.com/ropensci/beastier)               |[![image](http://cranlogs.r-pkg.org/badges/beastier)](https://CRAN.R-project.org/package=beastier)      |[![image](http://cranlogs.r-pkg.org/badges/grand-total/beastier)](https://CRAN.R-project.org/package=beastier)
+[beautier](https://github.com/ropensci/beautier)               |[![image](http://cranlogs.r-pkg.org/badges/beautier)](https://CRAN.R-project.org/package=beautier)      |[![image](http://cranlogs.r-pkg.org/badges/grand-total/beautier)](https://CRAN.R-project.org/package=beautier)
+[mauricer](https://github.com/ropensci/mauricer)               |[![image](http://cranlogs.r-pkg.org/badges/mauricer)](https://CRAN.R-project.org/package=mauricer)      |[![image](http://cranlogs.r-pkg.org/badges/grand-total/mauricer)](https://CRAN.R-project.org/package=mauricer)
+[mcbette](https://github.com/ropensci/mcbette)                 |[![image](http://cranlogs.r-pkg.org/badges/mcbette)](https://CRAN.R-project.org/package=mcbette)        |[![image](http://cranlogs.r-pkg.org/badges/grand-total/mcbette)](https://CRAN.R-project.org/package=mcbette)
+[mhcnuggetsr](https://github.com/richelbilderbeek/mhcnuggetsr) |[![image](http://cranlogs.r-pkg.org/badges/mhcnuggetsr)](https://CRAN.R-project.org/package=mhcnuggetsr)|[![image](http://cranlogs.r-pkg.org/badges/grand-total/mhcnuggetsr)](https://CRAN.R-project.org/package=mhcnuggetsr)
+[netmhc2pan](https://github.com/richelbilderbeek/netmhc2pan)   |[![image](http://cranlogs.r-pkg.org/badges/netmhc2pan)](https://CRAN.R-project.org/package=netmhc2pan)|[![image](http://cranlogs.r-pkg.org/badges/grand-total/netmhc2pan)](https://CRAN.R-project.org/package=netmhc2pan)                                                                                                |[2]
+[pirouette](https://github.com/richelbilderbeek/pirouette)     |[![image](http://cranlogs.r-pkg.org/badges/pirouette)](https://CRAN.R-project.org/package=pirouette)    |[![image](http://cranlogs.r-pkg.org/badges/grand-total/pirouette)](https://CRAN.R-project.org/package=pirouette)
+[pureseqtmr](https://github.com/richelbilderbeek/pureseqtmr)   |[![image](http://cranlogs.r-pkg.org/badges/pureseqtmr)](https://CRAN.R-project.org/package=pureseqtmr)  |[![image](http://cranlogs.r-pkg.org/badges/grand-total/pureseqtmr)](https://CRAN.R-project.org/package=pureseqtmr)
+[tmhmm](https://github.com/richelbilderbeek/tmhmm)             |[![image](http://cranlogs.r-pkg.org/badges/tmhmm)](https://CRAN.R-project.org/package=tmhmm)|[![image](http://cranlogs.r-pkg.org/badges/grand-total/tmhmm)](https://CRAN.R-project.org/package=tmhmm)                                                                                                |[2]
+[tracerer](https://github.com/ropensci/tracerer)               |[![image](http://cranlogs.r-pkg.org/badges/tracerer)](https://CRAN.R-project.org/package=tracerer)      |[![image](http://cranlogs.r-pkg.org/badges/grand-total/tracerer)](https://CRAN.R-project.org/package=tracerer)
+
+<!-- markdownlint-enable MD013 -->
 
 ## Peer-reviewed R packages I wrote and maintain
 
-Name                                                           |Downloads                                                                                    |Total number of downloads                                                        
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
+Name                                                           |Downloads                                                                                    |Total number of downloads
 ---------------------------------------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------
-[babette](https://github.com/ropensci/babette)                 |[![](http://cranlogs.r-pkg.org/badges/babette)](https://CRAN.R-project.org/package=babette)  |[![](http://cranlogs.r-pkg.org/badges/grand-total/babette)](https://CRAN.R-project.org/package=babette)
-[beastier](https://github.com/ropensci/beastier)               |[![](http://cranlogs.r-pkg.org/badges/beastier)](https://CRAN.R-project.org/package=beastier)|[![](http://cranlogs.r-pkg.org/badges/grand-total/beastier)](https://CRAN.R-project.org/package=beastier)
-[beautier](https://github.com/ropensci/beautier)               |[![](http://cranlogs.r-pkg.org/badges/beautier)](https://CRAN.R-project.org/package=beautier)|[![](http://cranlogs.r-pkg.org/badges/grand-total/beautier)](https://CRAN.R-project.org/package=beautier)
-[mcbette](https://github.com/ropensci/mcbette)                 |[![](http://cranlogs.r-pkg.org/badges/mcbette)](https://CRAN.R-project.org/package=mcbette)        |[![](http://cranlogs.r-pkg.org/badges/grand-total/mcbette)](https://CRAN.R-project.org/package=mcbette)
-[tracerer](https://github.com/ropensci/tracerer)               |[![](http://cranlogs.r-pkg.org/badges/tracerer)](https://CRAN.R-project.org/package=tracerer)|[![](http://cranlogs.r-pkg.org/badges/grand-total/tracerer)](https://CRAN.R-project.org/package=tracerer)
+[babette](https://github.com/ropensci/babette)                 |[![image](http://cranlogs.r-pkg.org/badges/babette)](https://CRAN.R-project.org/package=babette)  |[![image](http://cranlogs.r-pkg.org/badges/grand-total/babette)](https://CRAN.R-project.org/package=babette)
+[beastier](https://github.com/ropensci/beastier)               |[![image](http://cranlogs.r-pkg.org/badges/beastier)](https://CRAN.R-project.org/package=beastier)|[![image](http://cranlogs.r-pkg.org/badges/grand-total/beastier)](https://CRAN.R-project.org/package=beastier)
+[beautier](https://github.com/ropensci/beautier)               |[![image](http://cranlogs.r-pkg.org/badges/beautier)](https://CRAN.R-project.org/package=beautier)|[![image](http://cranlogs.r-pkg.org/badges/grand-total/beautier)](https://CRAN.R-project.org/package=beautier)
+[mcbette](https://github.com/ropensci/mcbette)                 |[![image](http://cranlogs.r-pkg.org/badges/mcbette)](https://CRAN.R-project.org/package=mcbette)        |[![image](http://cranlogs.r-pkg.org/badges/grand-total/mcbette)](https://CRAN.R-project.org/package=mcbette)
+[tracerer](https://github.com/ropensci/tracerer)               |[![image](http://cranlogs.r-pkg.org/badges/tracerer)](https://CRAN.R-project.org/package=tracerer)|[![image](http://cranlogs.r-pkg.org/badges/grand-total/tracerer)](https://CRAN.R-project.org/package=tracerer)
+
+<!-- markdownlint-enable MD013 -->
 
 ## Academic R packages I contributed to
 
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
 Name                                                        |Downloads                                                                                    |Total number of downloads
 ------------------------------------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------
-[DAISIE](https://github.com/rsetienne/DAISIE)               |[![](http://cranlogs.r-pkg.org/badges/DAISIE)](https://CRAN.R-project.org/package=DAISIE)    |[![](http://cranlogs.r-pkg.org/badges/grand-total/DAISIE)](https://CRAN.R-project.org/package=DAISIE)
-[GenomeAdmixR](https://github.com/thijsjanzen/GenomeAdmixR) |[![](http://cranlogs.r-pkg.org/badges/DAISIE)](https://CRAN.R-project.org/package=DAISIE)    |[![](http://cranlogs.r-pkg.org/badges/grand-total/GenomeAdmixR)](https://CRAN.R-project.org/package=GenomeAdmixR)
-[markovchain](https://github.com/spedygiorgio/markovchain)  |[![](http://cranlogs.r-pkg.org/badges/DAISIE)](https://CRAN.R-project.org/package=DAISIE)    |[![](http://cranlogs.r-pkg.org/badges/grand-total/markovchain)](https://CRAN.R-project.org/package=markovchain)
-[nLTT](https://github.com/thijsjanzen/nLTT)                 |[![](http://cranlogs.r-pkg.org/badges/nLTT)](https://CRAN.R-project.org/package=nLTT)        |[![](http://cranlogs.r-pkg.org/badges/grand-total/nLTT)](https://CRAN.R-project.org/package=nLTT)
-[Peptides](https://github.com/dosorio/Peptides)             |[![](http://cranlogs.r-pkg.org/badges/phangorn)](https://CRAN.R-project.org/package=phangorn)|[![](http://cranlogs.r-pkg.org/badges/grand-total/Peptides)](https://CRAN.R-project.org/package=Peptides)
-[phangorn](https://github.com/klausvigo/phangorn)           |[![](http://cranlogs.r-pkg.org/badges/phangorn)](https://CRAN.R-project.org/package=phangorn)|[![](http://cranlogs.r-pkg.org/badges/grand-total/phangorn)](https://CRAN.R-project.org/package=phangorn)
+[DAISIE](https://github.com/rsetienne/DAISIE)               |[![image](http://cranlogs.r-pkg.org/badges/DAISIE)](https://CRAN.R-project.org/package=DAISIE)    |[![image](http://cranlogs.r-pkg.org/badges/grand-total/DAISIE)](https://CRAN.R-project.org/package=DAISIE)
+[GenomeAdmixR](https://github.com/thijsjanzen/GenomeAdmixR) |[![image](http://cranlogs.r-pkg.org/badges/DAISIE)](https://CRAN.R-project.org/package=DAISIE)    |[![image](http://cranlogs.r-pkg.org/badges/grand-total/GenomeAdmixR)](https://CRAN.R-project.org/package=GenomeAdmixR)
+[markovchain](https://github.com/spedygiorgio/markovchain)  |[![image](http://cranlogs.r-pkg.org/badges/DAISIE)](https://CRAN.R-project.org/package=DAISIE)    |[![image](http://cranlogs.r-pkg.org/badges/grand-total/markovchain)](https://CRAN.R-project.org/package=markovchain)
+[nLTT](https://github.com/thijsjanzen/nLTT)                 |[![image](http://cranlogs.r-pkg.org/badges/nLTT)](https://CRAN.R-project.org/package=nLTT)        |[![image](http://cranlogs.r-pkg.org/badges/grand-total/nLTT)](https://CRAN.R-project.org/package=nLTT)
+[Peptides](https://github.com/dosorio/Peptides)             |[![image](http://cranlogs.r-pkg.org/badges/phangorn)](https://CRAN.R-project.org/package=phangorn)|[![image](http://cranlogs.r-pkg.org/badges/grand-total/Peptides)](https://CRAN.R-project.org/package=Peptides)
+[phangorn](https://github.com/klausvigo/phangorn)           |[![image](http://cranlogs.r-pkg.org/badges/phangorn)](https://CRAN.R-project.org/package=phangorn)|[![image](http://cranlogs.r-pkg.org/badges/grand-total/phangorn)](https://CRAN.R-project.org/package=phangorn)
+
+<!-- markdownlint-enable MD013 -->
 
 ## Software I contributed to
 
- * [mlpack](https://github.com/mlpack/mlpack): a C++ machine-learning library
+* [mlpack](https://github.com/mlpack/mlpack): a C++ machine-learning library
 
 ## Academic supervision
 
 ### MScs
 
- * Jorik de Boer
- * Kees Wesselink
+* Jorik de Boer
+* Kees Wesselink
 
 ### BScs
 
- * Joris Damhuis
- * Jolien Gay
- * Elles Jetten
- * Dave Nijhuis
- * Damian Over
- * Frans Thon, [University of Bielefeld](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/verbuende/chemodiversity/team/)
+* Joris Damhuis
+* Jolien Gay
+* Elles Jetten
+* Dave Nijhuis
+* Damian Over
+* Frans Thon, [University of Bielefeld](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/verbuende/chemodiversity/team/)
 
 ### Interns from secondary school
 
- * Anne Hinrichs
- * Aram Petiet
- * Hidde Nauta
- * Jasper Bakker
- * Jeroen van Niemendal
- * Jorn Prenger
- * Joshua van Waardenberg
- * Marijn Meerveld
- * Mart Prenger
- * Owen Moorman
- * Rijk van Putten
+* Anne Hinrichs
+* Aram Petiet
+* Hidde Nauta
+* Jasper Bakker
+* Jeroen van Niemendal
+* Jorn Prenger
+* Joshua van Waardenberg
+* Marijn Meerveld
+* Mart Prenger
+* Owen Moorman
+* Rijk van Putten
 
 ### PRAOs
 
- * Arvid
- * [Felix](https://github.com/richelbilderbeek/prao_felix_20240417)
- * [Emil](https://github.com/richelbilderbeek/prao_emil_20240603)
- * [Frans](https://github.com/richelbilderbeek/prao_frans_20241114)
- * [Jonathan](https://github.com/richelbilderbeek/prao_jonatan_20241126)
- * [Noah](https://github.com/richelbilderbeek/prao_noah_20250409/)
+* Arvid
+* [Felix](https://github.com/richelbilderbeek/prao_felix_20240417)
+* [Emil](https://github.com/richelbilderbeek/prao_emil_20240603)
+* [Frans](https://github.com/richelbilderbeek/prao_frans_20241114)
+* [Jonathan](https://github.com/richelbilderbeek/prao_jonatan_20241126)
+* [Noah](https://github.com/richelbilderbeek/prao_noah_20250409/)
 
 ## Academic simulations
 
- * [Korter Project](https://github.com/richelbilderbeek/korter_project)
- * [MutualismBreakdowner](https://github.com/richelbilderbeek/MutualismBreakdowner)
- * [ProjectChrisWiley](https://github.com/richelbilderbeek/ProjectChrisWiley)
- * [ProjectMuscaDomestica](https://github.com/richelbilderbeek/ProjectMuscaDomestica)
- * [ProjectBristol](https://github.com/richelbilderbeek/ProjectBristol)
+* [Korter Project](https://github.com/richelbilderbeek/korter_project)
+* [MutualismBreakdowner](https://github.com/richelbilderbeek/MutualismBreakdowner)
+* [ProjectChrisWiley](https://github.com/richelbilderbeek/ProjectChrisWiley)
+* [ProjectMuscaDomestica](https://github.com/richelbilderbeek/ProjectMuscaDomestica)
+* [ProjectBristol](https://github.com/richelbilderbeek/ProjectBristol)
 
 ## Educational simulations
 
- * [SimImmuneResponse](https://github.com/richelbilderbeek/SimImmuneResponse): human immune response simulator
- * [SimStagecraft](https://github.com/richelbilderbeek/SimStagecraft): stagecraft simulator
- * [SoaSim](https://github.com/richelbilderbeek/SoaSim): STD transmission simulator
+* [SimImmuneResponse](https://github.com/richelbilderbeek/SimImmuneResponse): human immune response simulator
+* [SimStagecraft](https://github.com/richelbilderbeek/SimStagecraft): stagecraft simulator
+* [SoaSim](https://github.com/richelbilderbeek/SoaSim): STD transmission simulator
 
 ## Teams I lead
 
- * tresinformal, 2019-2024
- * informalr, 2020-2021
- * Team Octane, 2017-2018
+* tresinformal, 2019-2024
+* informalr, 2020-2021
+* Team Octane, 2017-2018
 
 ## Work experience
 
 Ordered by ending date, then beginning date, most recent at top.
+
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
 Period           |Function
 -----------------|-------------------------------------------------------------------------------------------
@@ -349,7 +387,11 @@ Jan 2003-Jul 2003|Student researcher in theoretical biology: developing an indiv
 Apr 1999-May 1999|Leader homework-camp: Leading a nine-day camp for secondary school students that need aiding in their courses, for Anderwijs, Utrecht
 Jan 1999-Feb 1999|Leader homework-camp: Leading a nine-day camp for secondary school students that need aiding in their courses, for Anderwijs, Utrecht
 
+<!-- markdownlint-enable MD013 -->
+
 ## Recurring activitities
+
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
 Day             |Frequency|Activity
 ----------------|---------|------------------------------
@@ -358,7 +400,11 @@ Mar 2023-present|Monthly  |[Navet Beer Club](https://beerclub.nu/)
 Mar 2014-present|Yearly   |[Pi Day](https://github.com/richelbilderbeek/pi_day)
 Mar 2012-present|Yearly   |[Pi Approximation Day](https://github.com/richelbilderbeek/pi_approximation_day)
 
+<!-- markdownlint-enable MD013 -->
+
 ## Activitities
+
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
 Day     |Activity
 --------|---------------------------------------
@@ -406,24 +452,26 @@ Feb 2013-present|Co-founder hackerspace Hive5
 Jan 2010-Nov 2012|Presenter Open Podium
 Jun 2010|Actor ATS
 
+<!-- markdownlint-enable MD013 -->
+
 ## Hobbies
 
- * Programming
- * Studying
- * Member of Uppsala Makerspace
- * Chess
- * Ballroom dancing
- * Member of Mensa
- * Composing and performing songs on the piano
- * Handicrafts: welding, forging, sculpturing
- * Stagecraft, both light and sound engineering
- * Skateboarding
- 
+* Programming
+* Studying
+* Member of Uppsala Makerspace
+* Chess
+* Ballroom dancing
+* Member of Mensa
+* Composing and performing songs on the piano
+* Handicrafts: welding, forging, sculpturing
+* Stagecraft, both light and sound engineering
+* Skateboarding
+
 ## Music bands I played in
 
- * Het Bilderbeek, Bilderbeek en Bogaart, Bogaart Quartet (2002)
- * The Fanstars (2007)
- * Dubai Coke, [https://dubaicoke.nl](https://dubaicoke.nl) (2020)
+* Het Bilderbeek, Bilderbeek en Bogaart, Bogaart Quartet (2002)
+* The Fanstars (2007)
+* Dubai Coke, [https://dubaicoke.nl](https://dubaicoke.nl) (2020)
 
 ## Natural languages
 
@@ -454,16 +502,20 @@ Rust    |Mediocre |1
 
 ## Build statuses
 
-Name                                                           |Downloads                                                                                       |Total number of downloads                                                        
----------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------
-[babette](https://github.com/ropensci/babette)                 |[![](http://cranlogs.r-pkg.org/badges/babette)](https://CRAN.R-project.org/package=babette)        |[![](http://cranlogs.r-pkg.org/badges/grand-total/babette)](https://CRAN.R-project.org/package=babette)
-[beastier](https://github.com/ropensci/beastier)               |[![](http://cranlogs.r-pkg.org/badges/beastier)](https://CRAN.R-project.org/package=beastier)      |[![](http://cranlogs.r-pkg.org/badges/grand-total/beastier)](https://CRAN.R-project.org/package=beastier)
-[beautier](https://github.com/ropensci/beautier)               |[![](http://cranlogs.r-pkg.org/badges/beautier)](https://CRAN.R-project.org/package=beautier)      |[![](http://cranlogs.r-pkg.org/badges/grand-total/beautier)](https://CRAN.R-project.org/package=beautier)
-[mauricer](https://github.com/ropensci/mauricer)               |[![](http://cranlogs.r-pkg.org/badges/mauricer)](https://CRAN.R-project.org/package=mauricer)      |[![](http://cranlogs.r-pkg.org/badges/grand-total/mauricer)](https://CRAN.R-project.org/package=mauricer)
-[mcbette](https://github.com/ropensci/mcbette)                 |[![](http://cranlogs.r-pkg.org/badges/mcbette)](https://CRAN.R-project.org/package=mcbette)        |[![](http://cranlogs.r-pkg.org/badges/grand-total/mcbette)](https://CRAN.R-project.org/package=mcbette)
-[mhcnuggetsr](https://github.com/richelbilderbeek/mhcnuggetsr) |[![](http://cranlogs.r-pkg.org/badges/mhcnuggetsr)](https://CRAN.R-project.org/package=mhcnuggetsr)|[![](http://cranlogs.r-pkg.org/badges/grand-total/mhcnuggetsr)](https://CRAN.R-project.org/package=mhcnuggetsr)
-[netmhc2pan](https://github.com/richelbilderbeek/netmhc2pan)   |[![](http://cranlogs.r-pkg.org/badges/netmhc2pan)](https://CRAN.R-project.org/package=netmhc2pan)|[![](http://cranlogs.r-pkg.org/badges/grand-total/netmhc2pan)](https://CRAN.R-project.org/package=netmhc2pan)                                                                                                |[2]
-[pirouette](https://github.com/richelbilderbeek/pirouette)     |[![](http://cranlogs.r-pkg.org/badges/pirouette)](https://CRAN.R-project.org/package=pirouette)    |[![](http://cranlogs.r-pkg.org/badges/grand-total/pirouette)](https://CRAN.R-project.org/package=pirouette)
-[pureseqtmr](https://github.com/richelbilderbeek/pureseqtmr)   |[![](http://cranlogs.r-pkg.org/badges/pureseqtmr)](https://CRAN.R-project.org/package=pureseqtmr)  |[![](http://cranlogs.r-pkg.org/badges/grand-total/pureseqtmr)](https://CRAN.R-project.org/package=pureseqtmr)
-[tmhmm](https://github.com/richelbilderbeek/tmhmm)             |[![](http://cranlogs.r-pkg.org/badges/tmhmm)](https://CRAN.R-project.org/package=tmhmm)|[![](http://cranlogs.r-pkg.org/badges/grand-total/tmhmm)](https://CRAN.R-project.org/package=tmhmm)                                                                                                |[2]
-[tracerer](https://github.com/ropensci/tracerer)               |[![](http://cranlogs.r-pkg.org/badges/tracerer)](https://CRAN.R-project.org/package=tracerer)      |[![](http://cranlogs.r-pkg.org/badges/grand-total/tracerer)](https://CRAN.R-project.org/package=tracerer)
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
+Name                                                           |Downloads                                                                                               |Total number of downloads
+---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------
+[babette](https://github.com/ropensci/babette)                 |[![image](http://cranlogs.r-pkg.org/badges/babette)](https://CRAN.R-project.org/package=babette)        |[![image](http://cranlogs.r-pkg.org/badges/grand-total/babette)](https://CRAN.R-project.org/package=babette)
+[beastier](https://github.com/ropensci/beastier)               |[![image](http://cranlogs.r-pkg.org/badges/beastier)](https://CRAN.R-project.org/package=beastier)      |[![image](http://cranlogs.r-pkg.org/badges/grand-total/beastier)](https://CRAN.R-project.org/package=beastier)
+[beautier](https://github.com/ropensci/beautier)               |[![image](http://cranlogs.r-pkg.org/badges/beautier)](https://CRAN.R-project.org/package=beautier)      |[![image](http://cranlogs.r-pkg.org/badges/grand-total/beautier)](https://CRAN.R-project.org/package=beautier)
+[mauricer](https://github.com/ropensci/mauricer)               |[![image](http://cranlogs.r-pkg.org/badges/mauricer)](https://CRAN.R-project.org/package=mauricer)      |[![image](http://cranlogs.r-pkg.org/badges/grand-total/mauricer)](https://CRAN.R-project.org/package=mauricer)
+[mcbette](https://github.com/ropensci/mcbette)                 |[![image](http://cranlogs.r-pkg.org/badges/mcbette)](https://CRAN.R-project.org/package=mcbette)        |[![image](http://cranlogs.r-pkg.org/badges/grand-total/mcbette)](https://CRAN.R-project.org/package=mcbette)
+[mhcnuggetsr](https://github.com/richelbilderbeek/mhcnuggetsr) |[![image](http://cranlogs.r-pkg.org/badges/mhcnuggetsr)](https://CRAN.R-project.org/package=mhcnuggetsr)|[![image](http://cranlogs.r-pkg.org/badges/grand-total/mhcnuggetsr)](https://CRAN.R-project.org/package=mhcnuggetsr)
+[netmhc2pan](https://github.com/richelbilderbeek/netmhc2pan)   |[![image](http://cranlogs.r-pkg.org/badges/netmhc2pan)](https://CRAN.R-project.org/package=netmhc2pan)  |[![image](http://cranlogs.r-pkg.org/badges/grand-total/netmhc2pan)](https://CRAN.R-project.org/package=netmhc2pan)
+[pirouette](https://github.com/richelbilderbeek/pirouette)     |[![image](http://cranlogs.r-pkg.org/badges/pirouette)](https://CRAN.R-project.org/package=pirouette)    |[![image](http://cranlogs.r-pkg.org/badges/grand-total/pirouette)](https://CRAN.R-project.org/package=pirouette)
+[pureseqtmr](https://github.com/richelbilderbeek/pureseqtmr)   |[![image](http://cranlogs.r-pkg.org/badges/pureseqtmr)](https://CRAN.R-project.org/package=pureseqtmr)  |[![image](http://cranlogs.r-pkg.org/badges/grand-total/pureseqtmr)](https://CRAN.R-project.org/package=pureseqtmr)
+[tmhmm](https://github.com/richelbilderbeek/tmhmm)             |[![image](http://cranlogs.r-pkg.org/badges/tmhmm)](https://CRAN.R-project.org/package=tmhmm)            |[![image](http://cranlogs.r-pkg.org/badges/grand-total/tmhmm)](https://CRAN.R-project.org/package=tmhmm)
+[tracerer](https://github.com/ropensci/tracerer)               |[![image](http://cranlogs.r-pkg.org/badges/tracerer)](https://CRAN.R-project.org/package=tracerer)      |[![image](http://cranlogs.r-pkg.org/badges/grand-total/tracerer)](https://CRAN.R-project.org/package=tracerer)
+
+<!-- markdownlint-enable MD013 -->
