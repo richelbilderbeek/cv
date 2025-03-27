@@ -138,37 +138,38 @@ Period   |Course                                                         |Certif
 ## Academic publications
 
 * Bilderbeek (in preparation).
-   The computer code of computational research is vital paradata,
-   the academic paper optional metadata.
-   Edited volume on paradata
+  The computer code of computational research is vital paradata,
+  the academic paper optional metadata.
+  Edited volume on paradata
 * Lambert, Neves, Bilderbeek, Valente & Etienne (2022).
-   The effect of mainland dynamics on data
-   and parameter estimates in island biogeography.
-   [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.13.476210v2.full)
-   (accepted for publication)
+  The effect of mainland dynamics on data
+  and parameter estimates in island biogeography.
+  [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.13.476210v2.full)
+  (accepted for publication)
 * Bilderbeek, Baranov, Van Den Bogaart & Bianchi (2021).
-   Transmembrane Helices Are an Over-Presented and Evolutionarily Conserved
-   Source of Major Histocompatibility Complex Class I and II Epitopes.
-   [Frontiers in immunology, 12](https://www.frontiersin.org/articles/10.3389/fimmu.2021.763044/full)
-   ([GitHub repository with all code](https://github.com/richelbilderbeek/bbbq_article))
+  Transmembrane Helices Are an Over-Presented and Evolutionarily Conserved
+  Source of Major Histocompatibility Complex Class I and II Epitopes.
+  [Frontiers in immunology, 12](https://www.frontiersin.org/articles/10.3389/fimmu.2021.763044/full)
+  ([GitHub repository with all code](https://github.com/richelbilderbeek/bbbq_article))
 * Bilderbeek (2020)
-   mcbette: model comparison using babette.
-   Journal of Open Source Software 5.54: 2762.
-   [https://doi.org/10.21105/joss.02762](https://doi.org/10.21105/joss.02762)
+  mcbette: model comparison using babette.
+  Journal of Open Source Software 5.54: 2762.
+  [https://doi.org/10.21105/joss.02762](https://doi.org/10.21105/joss.02762)
 * Bilderbeek, Laudanno and Etienne (2020)
-   Quantifying the impact of an inference model in Bayesian phylogenetics.
-   Methods in Ecology and Evolution.
-   [https://doi.org/10.1111/2041-210X.13514](https://doi.org/10.1111/2041-210X.13514)
-   ([GitHub repository with all code](https://github.com/richelbilderbeek/pirouette_article))
+  Quantifying the impact of an inference model in Bayesian phylogenetics.
+  Methods in Ecology and Evolution.
+  [https://doi.org/10.1111/2041-210X.13514](https://doi.org/10.1111/2041-210X.13514)
+  ([GitHub repository with all code](https://github.com/richelbilderbeek/pirouette_article))
 * Bilderbeek and Etienne (2018)
-   babette: BEAUti 2, BEAST2 and Tracer for R.
-   Methods in Ecology and Evolution 9, no. 9: 2034-2040.
-   [https://doi.org/10.1111/2041-210X.13032](https://doi.org/10.1111/2041-210X.13032)
-   ([GitHub repository with all code](https://github.com/richelbilderbeek/babette_article))
+  babette: BEAUti 2, BEAST2 and Tracer for R.
+  Methods in Ecology and Evolution 9, no. 9: 2034-2040.
+  [https://doi.org/10.1111/2041-210X.13032](https://doi.org/10.1111/2041-210X.13032)
+  ([GitHub repository with all code](https://github.com/richelbilderbeek/babette_article))
 * van den Bogaart, Bilderbeek, Schaap, Hummel and Kirschner (2016)
-   A computer-supported method to reveal and assess Personal Professional Theories in vocational education.
-   Technology, pedagogy and education 25, no. 5: 613-629.
-   [https://doi.org/10.1080/1475939X.2015.1129986](https://doi.org/10.1080/1475939X.2015.1129986)
+  A computer-supported method to reveal and assess
+  Personal Professional Theories in vocational education.
+  Technology, pedagogy and education 25, no. 5: 613-629.
+  [https://doi.org/10.1080/1475939X.2015.1129986](https://doi.org/10.1080/1475939X.2015.1129986)
 
 ## Professional publications
 
@@ -193,7 +194,8 @@ Period   |Course                                                         |Certif
    book about learning the Bevy Rust gaming library using test-driven development
 * [How to add a custom tree prior to BEAST2](https://github.com/BEAST2-Dev/beast-docs/blob/master/CreateNewTreePrior/CreateNewTreePrior.md)
 * [Travis CI for C++ Tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial)
-* [Theatertechniek](https://github.com/richelbilderbeek/theatertechniek): stagecraft (Dutch)
+* [Theatertechniek](https://github.com/richelbilderbeek/theatertechniek):
+  stagecraft (Dutch)
 
 ## English course material
 
@@ -225,10 +227,10 @@ Name                                                           |Downloads       
 [mauricer](https://github.com/ropensci/mauricer)               |[![image](http://cranlogs.r-pkg.org/badges/mauricer)](https://CRAN.R-project.org/package=mauricer)      |[![image](http://cranlogs.r-pkg.org/badges/grand-total/mauricer)](https://CRAN.R-project.org/package=mauricer)
 [mcbette](https://github.com/ropensci/mcbette)                 |[![image](http://cranlogs.r-pkg.org/badges/mcbette)](https://CRAN.R-project.org/package=mcbette)        |[![image](http://cranlogs.r-pkg.org/badges/grand-total/mcbette)](https://CRAN.R-project.org/package=mcbette)
 [mhcnuggetsr](https://github.com/richelbilderbeek/mhcnuggetsr) |[![image](http://cranlogs.r-pkg.org/badges/mhcnuggetsr)](https://CRAN.R-project.org/package=mhcnuggetsr)|[![image](http://cranlogs.r-pkg.org/badges/grand-total/mhcnuggetsr)](https://CRAN.R-project.org/package=mhcnuggetsr)
-[netmhc2pan](https://github.com/richelbilderbeek/netmhc2pan)   |[![image](http://cranlogs.r-pkg.org/badges/netmhc2pan)](https://CRAN.R-project.org/package=netmhc2pan)|[![image](http://cranlogs.r-pkg.org/badges/grand-total/netmhc2pan)](https://CRAN.R-project.org/package=netmhc2pan)                                                                                                |[2]
+[netmhc2pan](https://github.com/richelbilderbeek/netmhc2pan)   |[![image](http://cranlogs.r-pkg.org/badges/netmhc2pan)](https://CRAN.R-project.org/package=netmhc2pan)|[![image](http://cranlogs.r-pkg.org/badges/grand-total/netmhc2pan)](https://CRAN.R-project.org/package=netmhc2pan)
 [pirouette](https://github.com/richelbilderbeek/pirouette)     |[![image](http://cranlogs.r-pkg.org/badges/pirouette)](https://CRAN.R-project.org/package=pirouette)    |[![image](http://cranlogs.r-pkg.org/badges/grand-total/pirouette)](https://CRAN.R-project.org/package=pirouette)
 [pureseqtmr](https://github.com/richelbilderbeek/pureseqtmr)   |[![image](http://cranlogs.r-pkg.org/badges/pureseqtmr)](https://CRAN.R-project.org/package=pureseqtmr)  |[![image](http://cranlogs.r-pkg.org/badges/grand-total/pureseqtmr)](https://CRAN.R-project.org/package=pureseqtmr)
-[tmhmm](https://github.com/richelbilderbeek/tmhmm)             |[![image](http://cranlogs.r-pkg.org/badges/tmhmm)](https://CRAN.R-project.org/package=tmhmm)|[![image](http://cranlogs.r-pkg.org/badges/grand-total/tmhmm)](https://CRAN.R-project.org/package=tmhmm)                                                                                                |[2]
+[tmhmm](https://github.com/richelbilderbeek/tmhmm)             |[![image](http://cranlogs.r-pkg.org/badges/tmhmm)](https://CRAN.R-project.org/package=tmhmm)|[![image](http://cranlogs.r-pkg.org/badges/grand-total/tmhmm)](https://CRAN.R-project.org/package=tmhmm)
 [tracerer](https://github.com/ropensci/tracerer)               |[![image](http://cranlogs.r-pkg.org/badges/tracerer)](https://CRAN.R-project.org/package=tracerer)      |[![image](http://cranlogs.r-pkg.org/badges/grand-total/tracerer)](https://CRAN.R-project.org/package=tracerer)
 
 <!-- markdownlint-enable MD013 -->
@@ -315,9 +317,12 @@ Name                                                        |Downloads          
 
 ## Educational simulations
 
-* [SimImmuneResponse](https://github.com/richelbilderbeek/SimImmuneResponse): human immune response simulator
-* [SimStagecraft](https://github.com/richelbilderbeek/SimStagecraft): stagecraft simulator
-* [SoaSim](https://github.com/richelbilderbeek/SoaSim): STD transmission simulator
+* [SimImmuneResponse](https://github.com/richelbilderbeek/SimImmuneResponse): 
+  human immune response simulator
+* [SimStagecraft](https://github.com/richelbilderbeek/SimStagecraft): 
+  stagecraft simulator
+* [SoaSim](https://github.com/richelbilderbeek/SoaSim):
+  STD transmission simulator
 
 ## Teams I lead
 
