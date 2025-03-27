@@ -395,7 +395,7 @@ Jan 1999-Feb 1999|Leader homework-camp: Leading a nine-day camp for secondary sc
 
 Day             |Frequency|Activity
 ----------------|---------|------------------------------
-Jan 2023-present|Monthly  |[Open Science Uppsala](https://bit.ly/open_science_uppsala)
+Jan 2023-present|Monthly  |[Open Science Uppsala](https://bit.ly/osc_uppsala)
 Mar 2023-present|Monthly  |[Navet Beer Club](https://beerclub.nu/)
 Mar 2014-present|Yearly   |[Pi Day](https://github.com/richelbilderbeek/pi_day)
 Mar 2012-present|Yearly   |[Pi Approximation Day](https://github.com/richelbilderbeek/pi_approximation_day)
