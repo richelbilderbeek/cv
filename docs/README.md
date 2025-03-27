@@ -389,7 +389,7 @@ Jan 1999-Feb 1999|Leader homework-camp: Leading a nine-day camp for secondary sc
 
 <!-- markdownlint-enable MD013 -->
 
-## Recurring activitities
+## Recurring activities
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
@@ -402,7 +402,7 @@ Mar 2012-present|Yearly   |[Pi Approximation Day](https://github.com/richelbilde
 
 <!-- markdownlint-enable MD013 -->
 
-## Activitities
+## Activities
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
