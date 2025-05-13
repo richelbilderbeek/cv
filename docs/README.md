@@ -317,9 +317,9 @@ Name                                                        |Downloads          
 
 ## Educational simulations
 
-* [SimImmuneResponse](https://github.com/richelbilderbeek/SimImmuneResponse): 
+* [SimImmuneResponse](https://github.com/richelbilderbeek/SimImmuneResponse):
   human immune response simulator
-* [SimStagecraft](https://github.com/richelbilderbeek/SimStagecraft): 
+* [SimStagecraft](https://github.com/richelbilderbeek/SimStagecraft):
   stagecraft simulator
 * [SoaSim](https://github.com/richelbilderbeek/SoaSim):
   STD transmission simulator
