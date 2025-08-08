@@ -17,7 +17,6 @@ Curriculum vitae
 - Date of birth: the 2nd September of 1980
 - Place of birth: Milsbeek, The Netherlands
 - Gender: Male
-- Homepage: <http://www.richelbilderbeek.nl>
 - Nationality: Dutch
 
 ## Education, work-related
