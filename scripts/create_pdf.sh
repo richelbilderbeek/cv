@@ -5,4 +5,4 @@
 #   ./scripts/create_pdf.sh
 #
 #
-pandoc README.md -o cv.pdf
+pandoc docs/README.md -o cv.pdf
